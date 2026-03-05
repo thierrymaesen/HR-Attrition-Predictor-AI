@@ -1,0 +1,1501 @@
+Age,Departement,Distance_Domicile_km,Salaire_Mensuel,Satisfaction_Travail,Heures_Supplementaires,Annees_Anciennete,Attrition
+42,R&D,3,5999,Très Haute,Non,1,Non
+36,R&D,17,2201,Très Haute,Oui,8,Non
+44,RH,6,5735,Moyenne,Non,7,Oui
+53,R&D,1,2000,Haute,Non,5,Non
+35,R&D,1,6251,Très Haute,Oui,6,Non
+35,R&D,4,6770,Basse,Non,4,Non
+53,R&D,15,3815,Très Haute,Non,4,Non
+45,R&D,12,5247,Très Haute,Oui,4,Non
+33,Ventes,15,8908,Basse,Oui,5,Oui
+43,R&D,7,3988,Moyenne,Oui,4,Non
+33,RH,5,2882,Très Haute,Non,7,Non
+33,R&D,1,7963,Haute,Oui,2,Non
+40,R&D,3,8925,Basse,Non,4,Oui
+22,Ventes,5,5007,Moyenne,Non,1,Non
+22,R&D,1,7022,Haute,Non,6,Non
+32,R&D,2,7682,Haute,Oui,1,Oui
+27,R&D,9,3515,Haute,Oui,6,Non
+41,Ventes,13,4029,Très Haute,Non,6,Non
+28,R&D,50,7461,Moyenne,Non,0,Non
+23,R&D,27,8370,Haute,Non,6,Non
+52,Ventes,10,6125,Haute,Oui,1,Oui
+35,R&D,5,3240,Haute,Non,4,Non
+38,Ventes,10,8974,Moyenne,Non,6,Non
+23,R&D,15,3938,Très Haute,Non,7,Non
+32,Ventes,1,4329,Très Haute,Non,6,Non
+39,Ventes,5,5684,Haute,Non,3,Non
+26,R&D,18,8108,Haute,Oui,7,Non
+41,Ventes,4,6707,Moyenne,Non,6,Non
+31,Ventes,8,5829,Haute,Non,5,Non
+35,R&D,8,5926,Haute,Oui,7,Non
+31,R&D,2,5087,Haute,Non,4,Non
+56,R&D,4,6116,Très Haute,Non,7,Non
+37,R&D,4,2000,Haute,Non,1,Non
+27,R&D,1,4406,Moyenne,Oui,2,Non
+46,R&D,1,5482,Haute,Non,2,Non
+25,Ventes,17,2697,Moyenne,Non,6,Oui
+40,Ventes,3,5772,Moyenne,Non,8,Non
+22,R&D,7,4591,Moyenne,Oui,6,Oui
+24,R&D,3,8510,Haute,Non,0,Non
+39,R&D,28,8146,Haute,Non,10,Non
+45,R&D,3,4068,Haute,Non,2,Oui
+39,R&D,5,4698,Haute,Non,5,Non
+36,Ventes,20,4852,Haute,Oui,8,Non
+34,Ventes,18,4096,Moyenne,Oui,5,Non
+23,R&D,2,5390,Très Haute,Non,4,Non
+30,R&D,16,3483,Moyenne,Non,3,Non
+33,R&D,6,2738,Moyenne,Non,7,Non
+48,Ventes,6,6245,Haute,Oui,7,Non
+41,R&D,1,6259,Moyenne,Non,3,Non
+22,R&D,1,3391,Basse,Non,3,Non
+41,Ventes,13,6790,Haute,Non,2,Non
+34,R&D,6,3736,Haute,Non,2,Non
+31,RH,5,5506,Haute,Oui,7,Non
+44,R&D,13,6640,Très Haute,Non,4,Oui
+48,R&D,14,4932,Haute,Oui,1,Non
+47,Ventes,1,5909,Très Haute,Non,3,Non
+29,R&D,9,3967,Basse,Non,10,Oui
+34,Ventes,1,4607,Haute,Non,3,Non
+41,RH,13,4588,Très Haute,Non,6,Non
+47,R&D,10,3506,Haute,Non,4,Non
+33,R&D,31,4646,Haute,Non,5,Non
+36,R&D,1,2000,Moyenne,Non,3,Oui
+26,R&D,1,4017,Basse,Non,7,Non
+26,R&D,3,4430,Haute,Oui,5,Oui
+46,R&D,3,4487,Moyenne,Non,2,Non
+51,RH,2,4517,Très Haute,Non,6,Oui
+37,R&D,23,4876,Moyenne,Oui,3,Non
+48,RH,2,5958,Très Haute,Oui,2,Non
+41,R&D,3,6749,Très Haute,Oui,7,Non
+31,R&D,14,3700,Moyenne,Non,6,Non
+41,R&D,5,2593,Moyenne,Non,3,Non
+53,Ventes,14,2915,Très Haute,Oui,5,Non
+37,Ventes,1,4025,Très Haute,Oui,7,Non
+53,Ventes,6,4296,Haute,Non,4,Non
+22,R&D,1,3460,Moyenne,Non,4,Non
+46,R&D,1,2407,Haute,Non,3,Non
+38,R&D,23,4087,Haute,Non,6,Oui
+35,RH,1,5362,Moyenne,Non,4,Non
+38,R&D,7,6190,Haute,Oui,5,Non
+22,R&D,5,3885,Basse,Oui,7,Oui
+35,Ventes,4,4174,Basse,Non,4,Non
+41,Ventes,23,3146,Moyenne,Oui,3,Non
+52,R&D,1,4937,Moyenne,Non,1,Non
+32,R&D,10,3303,Moyenne,Non,5,Non
+29,R&D,33,6146,Haute,Non,8,Non
+32,Ventes,8,2000,Moyenne,Non,5,Non
+47,R&D,27,4280,Moyenne,Non,5,Non
+41,Ventes,1,5602,Moyenne,Oui,3,Oui
+32,Ventes,5,5367,Très Haute,Oui,3,Oui
+43,Ventes,3,10386,Haute,Non,6,Non
+38,Ventes,13,5699,Haute,Non,5,Oui
+47,R&D,39,2991,Haute,Oui,7,Oui
+30,Ventes,2,4809,Très Haute,Non,6,Non
+34,RH,10,2000,Moyenne,Non,8,Oui
+34,R&D,2,4838,Haute,Non,8,Non
+23,Ventes,8,3333,Haute,Non,8,Non
+40,Ventes,6,6830,Haute,Non,9,Non
+40,R&D,35,3900,Basse,Oui,5,Non
+38,Ventes,9,4766,Haute,Non,3,Non
+35,R&D,4,3728,Basse,Oui,4,Non
+23,RH,1,8477,Haute,Non,5,Non
+33,Ventes,1,4357,Haute,Non,6,Non
+34,R&D,2,8665,Moyenne,Non,7,Non
+29,Ventes,2,6628,Très Haute,Non,4,Oui
+36,R&D,19,5964,Basse,Non,6,Non
+42,R&D,8,5737,Très Haute,Non,13,Non
+56,Ventes,7,5787,Haute,Non,3,Non
+39,Ventes,1,2000,Moyenne,Non,7,Non
+40,R&D,19,4442,Basse,Non,7,Non
+37,R&D,12,6690,Très Haute,Oui,2,Non
+22,Ventes,1,4902,Basse,Non,5,Non
+37,R&D,12,2189,Moyenne,Non,2,Non
+38,R&D,7,4895,Moyenne,Oui,4,Non
+60,R&D,1,8408,Haute,Oui,3,Oui
+36,Ventes,6,7493,Haute,Non,3,Non
+41,R&D,6,4875,Basse,Oui,1,Oui
+37,R&D,1,6902,Moyenne,Non,7,Non
+26,Ventes,29,4266,Moyenne,Non,4,Non
+49,R&D,18,2000,Moyenne,Non,9,Non
+45,R&D,11,3151,Haute,Oui,4,Oui
+45,RH,6,8125,Haute,Non,6,Non
+28,Ventes,5,4452,Moyenne,Non,3,Non
+52,R&D,10,4513,Moyenne,Non,8,Non
+23,R&D,7,4400,Moyenne,Non,6,Non
+43,RH,1,8808,Très Haute,Non,5,Non
+59,R&D,7,8251,Très Haute,Non,3,Oui
+28,RH,16,9437,Très Haute,Non,11,Non
+32,RH,6,4681,Moyenne,Non,7,Non
+38,Ventes,1,5591,Basse,Non,6,Non
+32,R&D,15,2000,Moyenne,Non,6,Non
+22,RH,2,7953,Moyenne,Non,6,Non
+38,Ventes,2,2664,Haute,Oui,6,Oui
+27,R&D,1,5433,Haute,Non,5,Non
+42,R&D,4,2805,Très Haute,Non,8,Non
+28,Ventes,14,3822,Très Haute,Non,6,Non
+53,Ventes,7,3325,Moyenne,Non,8,Non
+30,Ventes,2,3784,Haute,Oui,13,Non
+34,Ventes,21,3921,Moyenne,Non,4,Non
+46,R&D,21,3903,Basse,Oui,1,Oui
+25,Ventes,20,6666,Haute,Non,4,Non
+40,R&D,2,2790,Basse,Non,2,Oui
+51,R&D,6,5441,Haute,Non,7,Non
+22,Ventes,41,7435,Moyenne,Non,4,Non
+39,R&D,14,3973,Haute,Non,5,Non
+40,R&D,1,3564,Haute,Non,8,Non
+45,RH,1,4538,Moyenne,Oui,6,Non
+25,Ventes,6,7359,Très Haute,Oui,5,Non
+24,Ventes,23,5388,Moyenne,Non,2,Non
+43,RH,7,3937,Haute,Non,6,Non
+40,RH,6,5967,Haute,Non,5,Non
+40,R&D,1,2795,Haute,Non,6,Non
+41,R&D,10,6362,Très Haute,Non,3,Non
+31,Ventes,17,5817,Moyenne,Non,6,Non
+40,R&D,4,4384,Haute,Non,6,Non
+40,Ventes,14,3322,Haute,Oui,4,Non
+30,Ventes,33,3226,Très Haute,Oui,7,Non
+56,R&D,2,6069,Moyenne,Non,4,Non
+42,Ventes,7,7457,Haute,Oui,0,Non
+26,R&D,3,3725,Haute,Oui,9,Non
+44,RH,15,5916,Moyenne,Oui,1,Non
+28,Ventes,8,2000,Haute,Non,6,Oui
+45,RH,10,3830,Moyenne,Non,4,Non
+49,RH,15,4937,Haute,Non,5,Non
+29,R&D,5,3180,Très Haute,Non,6,Non
+47,Ventes,24,3126,Haute,Non,8,Oui
+42,R&D,7,3664,Haute,Non,4,Non
+46,R&D,1,5584,Haute,Oui,5,Oui
+56,R&D,11,4625,Basse,Oui,10,Oui
+35,Ventes,15,2000,Moyenne,Non,5,Non
+30,RH,3,2000,Haute,Non,7,Non
+29,Ventes,19,3786,Moyenne,Non,6,Non
+29,R&D,23,5915,Moyenne,Non,4,Non
+37,Ventes,3,2000,Haute,Non,3,Oui
+41,R&D,41,4000,Moyenne,Oui,5,Non
+40,RH,1,3947,Moyenne,Oui,4,Non
+46,Ventes,2,7776,Haute,Oui,4,Oui
+38,Ventes,2,4229,Basse,Non,5,Non
+52,R&D,22,5765,Très Haute,Non,2,Non
+35,R&D,10,5282,Très Haute,Non,7,Non
+60,R&D,1,2000,Haute,Oui,3,Oui
+44,R&D,5,6536,Basse,Non,5,Non
+29,Ventes,9,5430,Haute,Non,6,Oui
+27,RH,1,6016,Très Haute,Oui,8,Non
+42,RH,21,12852,Haute,Oui,5,Non
+35,R&D,16,2000,Basse,Non,3,Non
+45,R&D,7,8449,Haute,Non,3,Non
+42,R&D,34,4425,Très Haute,Non,5,Non
+37,R&D,5,5574,Haute,Non,7,Non
+29,Ventes,41,4908,Haute,Non,5,Non
+22,R&D,11,4151,Haute,Non,5,Non
+33,R&D,10,3860,Haute,Non,10,Non
+46,Ventes,1,5659,Basse,Non,2,Oui
+40,R&D,21,2000,Haute,Oui,6,Non
+25,R&D,5,6501,Basse,Non,7,Non
+39,R&D,1,4167,Haute,Non,4,Non
+41,R&D,1,2739,Moyenne,Oui,11,Oui
+29,RH,8,4099,Haute,Non,5,Non
+39,Ventes,7,7514,Basse,Non,4,Non
+38,R&D,12,3929,Haute,Non,1,Non
+26,R&D,22,5716,Haute,Non,11,Non
+41,R&D,1,3538,Moyenne,Non,3,Non
+43,R&D,13,6515,Basse,Non,2,Non
+48,Ventes,2,6371,Basse,Non,7,Non
+48,R&D,19,8697,Très Haute,Non,5,Non
+24,R&D,17,4648,Haute,Non,1,Non
+28,R&D,7,6337,Haute,Non,6,Non
+43,R&D,12,5196,Basse,Non,4,Non
+43,R&D,3,7591,Haute,Non,9,Non
+43,R&D,6,3562,Très Haute,Non,4,Non
+60,R&D,17,6490,Très Haute,Oui,9,Non
+43,R&D,6,4610,Haute,Non,5,Non
+49,R&D,4,4871,Basse,Non,2,Oui
+47,R&D,6,5183,Basse,Non,8,Non
+44,R&D,17,5504,Basse,Oui,2,Non
+34,R&D,4,4767,Moyenne,Oui,7,Non
+45,Ventes,1,5429,Basse,Non,9,Non
+30,RH,12,8156,Moyenne,Non,3,Non
+35,Ventes,17,6970,Moyenne,Non,3,Non
+33,R&D,1,6738,Très Haute,Non,6,Non
+38,R&D,2,4088,Haute,Non,7,Non
+60,R&D,1,3221,Très Haute,Non,2,Non
+22,R&D,4,6910,Haute,Oui,9,Non
+44,Ventes,5,6752,Basse,Non,5,Oui
+22,R&D,13,7945,Haute,Oui,5,Non
+33,R&D,10,3792,Moyenne,Non,3,Non
+48,R&D,9,4540,Haute,Non,6,Non
+38,Ventes,4,2000,Moyenne,Non,6,Oui
+27,R&D,18,4215,Très Haute,Non,4,Non
+30,R&D,6,6993,Moyenne,Non,6,Non
+44,R&D,38,4067,Moyenne,Non,8,Non
+30,R&D,10,6280,Très Haute,Oui,4,Non
+40,R&D,1,4618,Basse,Non,6,Oui
+38,RH,11,5648,Haute,Oui,4,Oui
+31,R&D,3,2704,Haute,Non,9,Non
+59,R&D,11,5170,Très Haute,Oui,5,Non
+44,Ventes,1,2000,Très Haute,Oui,7,Non
+22,R&D,1,4626,Très Haute,Non,2,Non
+39,R&D,19,2000,Basse,Non,4,Oui
+31,Ventes,2,7411,Très Haute,Non,4,Non
+46,Ventes,18,6554,Haute,Oui,7,Non
+30,R&D,3,5933,Haute,Non,3,Oui
+36,Ventes,10,8042,Basse,Oui,4,Oui
+43,R&D,11,3102,Haute,Non,3,Non
+46,Ventes,7,8494,Très Haute,Non,3,Non
+25,R&D,3,6864,Très Haute,Non,2,Non
+34,Ventes,2,4526,Haute,Non,10,Non
+33,Ventes,1,7271,Basse,Non,3,Oui
+31,R&D,3,2787,Moyenne,Non,2,Non
+55,R&D,10,3350,Très Haute,Non,6,Non
+42,Ventes,27,3782,Haute,Non,4,Non
+25,R&D,20,3942,Haute,Non,6,Non
+47,R&D,14,2886,Basse,Oui,2,Oui
+59,R&D,15,7446,Haute,Non,4,Non
+48,R&D,10,4482,Haute,Non,9,Non
+22,R&D,3,5705,Très Haute,Non,10,Non
+33,R&D,23,3859,Haute,Oui,5,Oui
+50,R&D,11,2000,Moyenne,Oui,2,Non
+30,Ventes,8,5540,Haute,Non,3,Non
+42,R&D,1,2000,Basse,Non,7,Non
+45,RH,5,4862,Très Haute,Oui,6,Non
+28,R&D,6,2263,Moyenne,Non,4,Non
+37,R&D,19,8974,Haute,Non,2,Non
+22,R&D,7,6822,Moyenne,Non,7,Non
+27,R&D,4,5211,Haute,Oui,6,Non
+35,R&D,37,7527,Haute,Oui,7,Non
+25,R&D,1,3307,Haute,Non,7,Non
+54,R&D,5,6086,Moyenne,Oui,3,Non
+23,R&D,1,5399,Moyenne,Oui,3,Non
+33,R&D,13,5528,Basse,Non,4,Non
+39,Ventes,25,7544,Haute,Non,5,Non
+52,R&D,3,6464,Basse,Non,2,Oui
+23,R&D,19,5577,Haute,Oui,4,Non
+49,R&D,3,2000,Très Haute,Oui,7,Non
+38,Ventes,24,3079,Très Haute,Oui,5,Oui
+28,R&D,14,4754,Haute,Non,6,Oui
+42,R&D,16,5186,Haute,Non,4,Non
+39,R&D,1,2739,Basse,Non,9,Non
+31,RH,32,9823,Haute,Non,2,Oui
+38,RH,12,8032,Très Haute,Non,6,Non
+34,Ventes,3,6204,Moyenne,Oui,4,Non
+39,Ventes,17,5144,Haute,Non,3,Non
+44,RH,3,4575,Très Haute,Non,6,Non
+53,RH,20,3096,Très Haute,Non,7,Non
+25,Ventes,1,5154,Moyenne,Oui,8,Non
+59,Ventes,12,5515,Haute,Non,9,Oui
+22,Ventes,7,2516,Moyenne,Non,5,Non
+36,RH,1,5668,Basse,Non,4,Non
+43,Ventes,2,4689,Très Haute,Oui,3,Non
+40,R&D,1,2000,Très Haute,Non,7,Non
+31,R&D,6,3279,Haute,Non,4,Non
+35,Ventes,3,4172,Basse,Non,8,Non
+33,R&D,9,8775,Très Haute,Non,8,Non
+32,Ventes,3,6113,Haute,Oui,1,Non
+46,R&D,3,2329,Moyenne,Non,5,Non
+41,Ventes,13,5972,Haute,Non,4,Non
+31,R&D,1,2000,Basse,Non,3,Non
+46,R&D,23,7165,Haute,Non,2,Non
+41,Ventes,19,4057,Haute,Non,8,Non
+46,Ventes,11,4812,Moyenne,Non,8,Non
+44,R&D,8,7651,Moyenne,Oui,3,Oui
+29,Ventes,22,2425,Moyenne,Non,4,Non
+32,R&D,2,2205,Basse,Non,12,Non
+45,R&D,1,3832,Haute,Non,3,Non
+44,R&D,2,7076,Très Haute,Non,3,Non
+37,R&D,15,2000,Basse,Non,4,Oui
+39,R&D,1,2000,Basse,Oui,3,Oui
+50,R&D,8,4097,Haute,Non,4,Non
+32,R&D,50,6103,Très Haute,Oui,6,Non
+43,Ventes,19,7400,Moyenne,Non,4,Non
+35,Ventes,7,4073,Moyenne,Non,3,Non
+35,R&D,1,4177,Haute,Non,8,Non
+48,R&D,17,7307,Moyenne,Non,2,Non
+46,R&D,9,2000,Basse,Non,3,Non
+46,Ventes,1,4222,Haute,Oui,7,Non
+51,R&D,1,5380,Haute,Non,3,Non
+38,Ventes,24,5898,Haute,Non,7,Oui
+44,Ventes,11,3980,Haute,Non,5,Non
+34,R&D,17,5068,Haute,Oui,2,Non
+41,Ventes,21,2000,Moyenne,Non,9,Non
+36,R&D,8,3683,Moyenne,Non,4,Non
+38,R&D,7,5907,Basse,Non,3,Non
+43,R&D,5,3035,Basse,Non,1,Oui
+29,R&D,3,5117,Haute,Non,2,Non
+58,Ventes,5,5893,Très Haute,Non,6,Non
+27,Ventes,14,4314,Très Haute,Non,10,Non
+25,R&D,9,5340,Haute,Non,6,Non
+49,R&D,22,3074,Moyenne,Non,6,Non
+45,R&D,5,4586,Basse,Non,2,Non
+44,Ventes,9,6220,Très Haute,Non,4,Non
+44,R&D,9,5313,Haute,Non,5,Non
+37,R&D,8,3826,Haute,Non,8,Non
+29,R&D,12,5448,Haute,Oui,5,Oui
+38,R&D,2,6429,Haute,Non,3,Non
+31,Ventes,7,2000,Très Haute,Non,1,Non
+47,Ventes,1,7318,Basse,Non,7,Non
+36,R&D,4,4327,Haute,Oui,7,Non
+29,RH,6,5850,Très Haute,Non,4,Non
+34,Ventes,10,7394,Moyenne,Non,4,Non
+42,R&D,30,2256,Haute,Non,4,Non
+32,Ventes,9,3581,Moyenne,Non,9,Non
+29,Ventes,13,4422,Très Haute,Oui,1,Oui
+40,R&D,7,3432,Basse,Non,3,Non
+40,Ventes,10,8469,Haute,Non,4,Non
+32,R&D,1,3286,Moyenne,Non,3,Non
+33,R&D,2,3888,Haute,Oui,3,Non
+40,Ventes,4,5408,Moyenne,Non,8,Non
+23,Ventes,6,2595,Moyenne,Oui,11,Oui
+23,R&D,1,4208,Haute,Non,4,Non
+30,Ventes,1,5634,Très Haute,Non,2,Non
+35,R&D,3,4334,Moyenne,Non,3,Non
+41,R&D,35,4813,Basse,Oui,4,Non
+52,R&D,4,3941,Haute,Non,2,Non
+46,R&D,6,2000,Haute,Non,7,Oui
+36,Ventes,2,5643,Très Haute,Non,2,Non
+37,Ventes,9,8509,Basse,Non,11,Non
+27,Ventes,3,5036,Haute,Non,5,Non
+37,R&D,2,5450,Moyenne,Non,5,Non
+35,R&D,7,6385,Moyenne,Non,4,Non
+41,Ventes,1,2461,Haute,Non,4,Non
+29,Ventes,1,8405,Haute,Oui,4,Non
+43,R&D,2,5404,Haute,Non,3,Non
+53,R&D,1,8263,Moyenne,Non,5,Non
+36,RH,1,3533,Haute,Oui,9,Non
+42,R&D,4,8636,Haute,Non,5,Non
+44,R&D,16,6550,Très Haute,Non,2,Non
+33,R&D,8,6106,Moyenne,Non,6,Non
+40,RH,7,5468,Moyenne,Non,7,Non
+38,R&D,3,4502,Moyenne,Oui,5,Non
+38,R&D,26,7401,Haute,Non,7,Non
+30,Ventes,5,5280,Moyenne,Oui,7,Oui
+38,Ventes,1,2000,Très Haute,Non,8,Non
+42,R&D,9,2765,Moyenne,Oui,7,Non
+52,R&D,1,4628,Très Haute,Non,3,Non
+47,R&D,4,5619,Basse,Non,4,Non
+59,Ventes,7,4886,Haute,Non,4,Non
+30,R&D,20,7437,Très Haute,Non,3,Non
+46,R&D,6,2000,Moyenne,Non,7,Non
+39,Ventes,12,5287,Très Haute,Oui,7,Non
+59,R&D,49,2000,Haute,Non,3,Non
+29,R&D,1,6519,Très Haute,Non,7,Non
+29,R&D,3,4811,Haute,Oui,8,Non
+32,R&D,5,5839,Moyenne,Non,3,Non
+22,R&D,5,3272,Moyenne,Non,4,Non
+32,R&D,5,7558,Moyenne,Non,7,Non
+30,R&D,23,7083,Basse,Non,1,Non
+39,R&D,12,6167,Basse,Non,4,Non
+41,R&D,9,4740,Basse,Non,2,Oui
+56,R&D,3,6159,Haute,Oui,2,Non
+47,Ventes,17,3586,Haute,Oui,5,Non
+32,R&D,31,6711,Basse,Non,6,Non
+29,R&D,17,8298,Basse,Non,5,Oui
+42,R&D,1,7141,Haute,Non,4,Non
+24,R&D,10,3540,Moyenne,Non,5,Non
+56,Ventes,1,5722,Basse,Oui,7,Non
+49,R&D,2,2413,Moyenne,Non,4,Non
+33,Ventes,1,6144,Très Haute,Non,2,Non
+22,Ventes,9,5901,Très Haute,Oui,9,Non
+51,R&D,11,2000,Moyenne,Non,4,Oui
+36,Ventes,1,2676,Haute,Oui,3,Oui
+50,R&D,4,4433,Haute,Non,4,Non
+22,R&D,6,4398,Haute,Non,4,Oui
+32,RH,4,2581,Haute,Non,6,Non
+38,R&D,1,5777,Haute,Non,4,Non
+38,Ventes,5,5502,Moyenne,Non,6,Non
+33,Ventes,13,4611,Basse,Non,9,Oui
+44,R&D,1,3488,Haute,Non,3,Non
+27,R&D,1,7097,Très Haute,Non,3,Non
+36,R&D,4,8310,Haute,Non,8,Non
+39,R&D,28,4032,Très Haute,Oui,6,Non
+43,Ventes,11,3775,Très Haute,Non,1,Non
+45,R&D,11,5982,Moyenne,Non,7,Non
+26,R&D,4,4283,Haute,Oui,5,Non
+22,Ventes,9,4721,Haute,Non,7,Non
+50,Ventes,1,6479,Très Haute,Non,5,Non
+41,Ventes,10,2000,Très Haute,Oui,2,Non
+30,Ventes,24,7636,Haute,Non,6,Non
+53,R&D,9,5145,Moyenne,Non,7,Non
+39,Ventes,20,4177,Haute,Non,5,Non
+49,Ventes,12,4821,Basse,Non,6,Oui
+38,Ventes,1,4924,Haute,Non,5,Non
+58,RH,23,2000,Très Haute,Non,6,Oui
+55,R&D,1,7989,Moyenne,Non,3,Non
+35,Ventes,7,5082,Haute,Oui,4,Non
+47,R&D,1,5886,Haute,Oui,5,Non
+44,Ventes,1,6903,Haute,Non,8,Oui
+51,R&D,5,2957,Moyenne,Non,10,Oui
+28,Ventes,3,5946,Haute,Non,5,Non
+44,R&D,6,4464,Très Haute,Oui,3,Non
+48,R&D,8,6693,Très Haute,Non,7,Non
+22,R&D,1,2000,Moyenne,Oui,2,Non
+26,Ventes,1,4801,Très Haute,Non,6,Non
+22,R&D,8,3794,Haute,Oui,6,Non
+35,R&D,4,5864,Moyenne,Oui,6,Non
+45,Ventes,13,5940,Basse,Non,5,Oui
+53,R&D,10,3584,Moyenne,Non,0,Non
+38,Ventes,18,3575,Très Haute,Non,6,Non
+54,Ventes,11,4778,Haute,Non,4,Non
+24,Ventes,5,3206,Haute,Non,6,Non
+22,R&D,11,6683,Moyenne,Non,3,Non
+37,R&D,3,4261,Haute,Oui,6,Non
+41,RH,3,2000,Basse,Non,3,Non
+37,Ventes,15,4250,Moyenne,Non,5,Non
+22,RH,5,2922,Haute,Non,2,Non
+37,Ventes,16,2000,Basse,Oui,4,Oui
+24,R&D,17,2525,Très Haute,Non,7,Oui
+44,R&D,19,5218,Moyenne,Non,6,Non
+41,Ventes,24,7657,Haute,Non,7,Non
+28,R&D,5,5626,Haute,Oui,6,Non
+32,R&D,3,3786,Haute,Oui,2,Non
+27,R&D,8,5911,Basse,Non,0,Non
+37,R&D,4,4081,Basse,Oui,4,Non
+47,R&D,9,3610,Très Haute,Non,5,Non
+28,R&D,12,2691,Moyenne,Non,2,Non
+43,R&D,11,2000,Très Haute,Non,3,Non
+32,Ventes,4,4220,Très Haute,Non,6,Non
+30,R&D,1,5316,Moyenne,Non,9,Oui
+36,R&D,5,4806,Moyenne,Non,6,Non
+27,Ventes,1,4168,Haute,Oui,4,Non
+32,Ventes,22,3108,Très Haute,Oui,2,Non
+26,R&D,4,6216,Très Haute,Non,6,Non
+57,R&D,1,2365,Haute,Oui,7,Non
+38,R&D,1,6552,Haute,Non,2,Non
+31,Ventes,10,2995,Basse,Oui,6,Oui
+40,R&D,10,3495,Très Haute,Non,8,Non
+36,Ventes,4,2066,Très Haute,Non,4,Non
+35,R&D,1,3997,Moyenne,Non,6,Non
+44,R&D,5,6950,Moyenne,Oui,6,Oui
+45,Ventes,3,6031,Basse,Non,1,Non
+32,R&D,11,6956,Moyenne,Non,7,Non
+32,RH,9,6044,Très Haute,Non,6,Non
+35,R&D,4,2792,Moyenne,Oui,5,Non
+22,R&D,2,4338,Basse,Non,3,Non
+22,R&D,44,3439,Moyenne,Non,7,Non
+51,R&D,6,7661,Très Haute,Non,4,Non
+54,Ventes,11,2606,Haute,Non,2,Non
+35,Ventes,1,6787,Haute,Oui,7,Non
+43,Ventes,6,6785,Moyenne,Non,5,Non
+41,R&D,1,8659,Très Haute,Non,8,Non
+60,R&D,7,4180,Très Haute,Non,7,Non
+49,R&D,33,6424,Moyenne,Non,5,Non
+36,R&D,4,9563,Basse,Oui,4,Oui
+28,R&D,1,3764,Basse,Non,3,Oui
+22,R&D,1,2000,Basse,Oui,9,Oui
+40,R&D,4,2000,Haute,Non,4,Non
+30,R&D,1,6425,Très Haute,Non,8,Non
+23,R&D,1,2000,Haute,Non,4,Oui
+31,Ventes,14,4255,Très Haute,Oui,2,Non
+27,RH,6,5874,Haute,Non,2,Non
+54,Ventes,3,5370,Haute,Non,5,Non
+46,Ventes,23,5850,Haute,Non,8,Non
+37,R&D,1,5444,Moyenne,Oui,5,Non
+52,R&D,31,7557,Moyenne,Oui,6,Non
+38,R&D,3,3095,Haute,Oui,3,Oui
+29,R&D,21,3646,Basse,Non,5,Non
+53,R&D,9,3454,Moyenne,Oui,8,Non
+43,Ventes,17,6660,Haute,Non,4,Non
+27,R&D,41,6800,Très Haute,Oui,5,Non
+36,R&D,3,5902,Haute,Non,1,Non
+29,R&D,32,7366,Très Haute,Non,5,Non
+24,R&D,4,2643,Haute,Non,6,Non
+47,RH,4,8334,Haute,Non,3,Oui
+57,Ventes,4,8046,Haute,Oui,6,Non
+24,R&D,7,6471,Très Haute,Oui,5,Non
+43,R&D,1,8563,Haute,Non,5,Non
+31,RH,8,2000,Haute,Non,6,Non
+33,Ventes,7,3951,Haute,Non,6,Non
+32,R&D,14,3529,Haute,Non,7,Non
+29,R&D,17,6442,Basse,Non,6,Non
+38,Ventes,5,2899,Basse,Non,5,Non
+29,R&D,3,6514,Basse,Non,6,Non
+40,Ventes,3,7741,Très Haute,Non,6,Non
+37,R&D,2,6390,Moyenne,Non,5,Oui
+35,RH,1,5567,Moyenne,Non,10,Non
+28,R&D,4,3024,Haute,Non,4,Non
+32,R&D,3,3306,Moyenne,Non,8,Non
+45,Ventes,33,7499,Haute,Non,6,Non
+43,RH,8,6558,Moyenne,Non,4,Non
+28,R&D,4,4921,Très Haute,Oui,5,Non
+38,Ventes,8,4164,Très Haute,Non,4,Non
+45,R&D,1,2000,Très Haute,Non,6,Non
+22,R&D,5,2858,Haute,Oui,2,Non
+43,Ventes,9,8822,Haute,Non,2,Non
+31,Ventes,6,2439,Basse,Non,9,Oui
+43,Ventes,5,5378,Basse,Non,1,Oui
+30,R&D,50,7014,Basse,Oui,3,Oui
+22,R&D,21,2490,Haute,Non,4,Non
+22,R&D,9,5369,Haute,Non,3,Non
+38,R&D,8,6875,Haute,Non,2,Non
+40,R&D,9,5024,Basse,Non,6,Non
+28,R&D,2,10736,Haute,Non,2,Non
+44,Ventes,5,2000,Haute,Non,7,Oui
+22,R&D,1,7117,Haute,Non,10,Oui
+37,R&D,6,4654,Haute,Non,1,Non
+25,R&D,7,6543,Moyenne,Non,2,Non
+31,R&D,2,5882,Très Haute,Oui,4,Non
+38,R&D,33,3533,Haute,Non,4,Non
+29,RH,24,5457,Moyenne,Non,8,Non
+34,Ventes,12,2000,Moyenne,Non,6,Non
+48,R&D,7,6206,Haute,Oui,2,Non
+32,Ventes,20,5596,Très Haute,Non,6,Non
+46,RH,1,6277,Haute,Oui,8,Non
+26,Ventes,15,7116,Moyenne,Oui,8,Non
+43,Ventes,1,5735,Très Haute,Non,2,Non
+52,R&D,15,5296,Haute,Non,5,Non
+22,R&D,3,3237,Haute,Non,4,Non
+30,Ventes,20,3575,Haute,Oui,3,Non
+43,R&D,28,7373,Moyenne,Non,8,Oui
+35,R&D,1,7872,Haute,Oui,3,Non
+41,Ventes,6,4523,Moyenne,Non,7,Non
+31,R&D,39,5092,Très Haute,Non,2,Non
+38,R&D,6,3190,Haute,Non,1,Non
+36,R&D,19,7345,Haute,Non,5,Oui
+49,R&D,8,6330,Haute,Oui,4,Non
+40,R&D,4,8882,Très Haute,Non,4,Non
+41,R&D,3,3243,Très Haute,Non,4,Non
+33,Ventes,2,4243,Haute,Non,3,Non
+33,Ventes,14,5462,Haute,Non,0,Non
+33,R&D,4,6292,Haute,Oui,2,Non
+41,RH,7,4568,Haute,Non,3,Non
+33,R&D,6,3254,Moyenne,Non,4,Non
+40,Ventes,8,6762,Haute,Non,2,Non
+58,Ventes,20,6442,Moyenne,Oui,6,Oui
+46,R&D,39,3167,Très Haute,Oui,5,Non
+34,R&D,5,7710,Moyenne,Non,1,Non
+50,Ventes,17,7340,Très Haute,Non,8,Non
+33,RH,14,5268,Haute,Oui,6,Non
+22,R&D,8,5159,Haute,Oui,1,Non
+27,RH,31,6108,Haute,Non,9,Non
+22,R&D,2,3276,Basse,Non,3,Non
+34,R&D,1,5060,Moyenne,Non,9,Non
+38,R&D,19,2000,Basse,Non,4,Non
+54,R&D,5,6752,Haute,Oui,3,Non
+41,R&D,18,2000,Haute,Non,7,Non
+35,R&D,22,8006,Haute,Non,5,Non
+46,R&D,1,4339,Moyenne,Oui,6,Oui
+22,RH,21,4576,Moyenne,Non,3,Non
+40,R&D,5,3744,Haute,Non,7,Non
+45,R&D,7,4423,Très Haute,Non,5,Non
+23,R&D,9,7837,Haute,Non,8,Non
+49,Ventes,26,2000,Haute,Non,7,Oui
+41,Ventes,1,7553,Haute,Non,3,Non
+33,R&D,6,5676,Basse,Non,5,Non
+44,R&D,11,2585,Très Haute,Non,9,Non
+60,R&D,12,2849,Haute,Oui,5,Non
+39,R&D,11,8352,Moyenne,Oui,6,Non
+40,R&D,1,3108,Haute,Non,4,Non
+33,R&D,3,2693,Basse,Oui,6,Non
+29,Ventes,4,7274,Très Haute,Non,6,Non
+46,R&D,16,5677,Moyenne,Non,5,Non
+29,R&D,3,3124,Haute,Non,6,Non
+38,Ventes,2,5433,Moyenne,Non,4,Non
+33,R&D,31,2948,Haute,Non,4,Oui
+42,R&D,1,7201,Haute,Oui,7,Non
+41,Ventes,50,7122,Haute,Non,7,Non
+48,Ventes,11,6064,Haute,Non,5,Non
+32,RH,17,5723,Très Haute,Non,3,Non
+35,R&D,3,8522,Basse,Non,3,Non
+28,Ventes,1,4999,Moyenne,Non,3,Non
+33,Ventes,13,2636,Moyenne,Oui,2,Non
+41,R&D,17,5898,Très Haute,Oui,6,Non
+45,R&D,13,9172,Moyenne,Oui,3,Non
+28,R&D,1,2970,Haute,Non,3,Non
+46,Ventes,14,4277,Haute,Oui,11,Non
+51,R&D,14,5832,Moyenne,Oui,4,Non
+42,R&D,10,4892,Moyenne,Non,10,Non
+56,R&D,14,3035,Moyenne,Oui,8,Non
+30,R&D,18,7243,Haute,Non,3,Non
+25,R&D,9,9640,Moyenne,Oui,7,Non
+22,R&D,1,5392,Basse,Oui,5,Oui
+52,RH,6,3191,Très Haute,Non,3,Non
+44,R&D,1,2000,Très Haute,Non,5,Non
+37,R&D,5,5515,Moyenne,Non,6,Non
+40,R&D,5,7207,Moyenne,Non,5,Non
+26,RH,1,5950,Basse,Non,5,Oui
+60,Ventes,4,4995,Haute,Non,2,Non
+39,R&D,1,3821,Très Haute,Oui,6,Non
+39,Ventes,16,2815,Basse,Non,5,Oui
+45,R&D,29,6669,Moyenne,Non,4,Non
+42,Ventes,1,6827,Haute,Non,7,Non
+40,R&D,31,2000,Haute,Non,5,Oui
+30,R&D,7,8179,Basse,Non,6,Non
+42,R&D,3,6148,Haute,Non,6,Non
+56,R&D,1,7799,Moyenne,Non,6,Non
+51,R&D,6,2315,Moyenne,Non,3,Non
+53,R&D,15,2268,Haute,Oui,5,Non
+32,R&D,12,4702,Très Haute,Non,4,Oui
+28,Ventes,1,6005,Haute,Non,8,Non
+36,R&D,1,8592,Très Haute,Non,3,Non
+38,R&D,5,6412,Haute,Non,2,Non
+48,Ventes,3,4514,Haute,Non,1,Non
+22,R&D,2,2947,Haute,Non,7,Non
+53,R&D,3,7460,Très Haute,Non,3,Non
+36,R&D,16,3070,Très Haute,Non,2,Non
+33,R&D,26,8256,Basse,Non,4,Oui
+27,R&D,5,4431,Très Haute,Non,6,Non
+22,Ventes,23,8181,Très Haute,Non,2,Non
+46,Ventes,3,6357,Haute,Non,7,Non
+38,R&D,6,4726,Moyenne,Oui,4,Oui
+25,Ventes,2,3961,Très Haute,Non,10,Non
+25,Ventes,10,4318,Très Haute,Non,8,Non
+34,R&D,38,5856,Moyenne,Non,6,Non
+54,R&D,9,5154,Très Haute,Non,7,Non
+35,R&D,4,3812,Basse,Non,3,Oui
+22,R&D,10,4668,Basse,Oui,4,Non
+35,R&D,1,5157,Haute,Non,8,Non
+35,R&D,21,2000,Haute,Non,5,Non
+22,R&D,6,5916,Haute,Non,4,Non
+37,R&D,5,3040,Basse,Oui,4,Oui
+35,R&D,8,2693,Très Haute,Non,5,Non
+44,R&D,9,2000,Basse,Non,5,Oui
+56,Ventes,1,2000,Basse,Non,4,Non
+49,R&D,11,2289,Basse,Non,3,Oui
+35,R&D,2,3581,Haute,Non,6,Non
+26,RH,12,8906,Très Haute,Non,8,Non
+60,R&D,17,3948,Haute,Non,5,Non
+38,R&D,16,5355,Très Haute,Non,5,Non
+38,Ventes,8,5800,Basse,Oui,3,Non
+37,Ventes,7,5262,Haute,Non,5,Non
+39,R&D,1,4845,Haute,Non,5,Non
+36,R&D,14,2609,Haute,Non,10,Non
+32,Ventes,3,7901,Basse,Non,4,Non
+32,R&D,6,8614,Haute,Oui,4,Non
+37,Ventes,3,2000,Haute,Oui,9,Non
+32,RH,1,2951,Haute,Non,5,Non
+30,Ventes,9,4440,Haute,Oui,4,Non
+39,RH,1,3070,Basse,Non,2,Oui
+35,RH,13,6011,Haute,Non,4,Non
+53,R&D,3,3543,Moyenne,Non,4,Non
+22,R&D,1,9330,Très Haute,Oui,5,Non
+48,R&D,7,7381,Haute,Oui,2,Non
+50,R&D,1,5425,Moyenne,Non,8,Non
+22,R&D,3,7053,Très Haute,Non,3,Non
+34,R&D,12,7211,Haute,Non,5,Non
+34,R&D,1,3872,Basse,Non,4,Non
+23,R&D,18,3367,Haute,Non,5,Non
+30,R&D,1,5156,Moyenne,Non,7,Non
+26,Ventes,2,6723,Très Haute,Non,6,Non
+55,R&D,13,5278,Très Haute,Non,7,Non
+47,Ventes,3,2000,Très Haute,Oui,3,Non
+50,Ventes,1,3394,Haute,Oui,8,Non
+45,Ventes,4,4852,Haute,Non,3,Non
+26,Ventes,3,4848,Haute,Non,6,Non
+32,Ventes,18,8945,Basse,Non,6,Non
+42,R&D,3,2228,Haute,Oui,6,Non
+25,Ventes,15,6011,Haute,Non,3,Non
+45,R&D,22,7978,Basse,Oui,1,Oui
+35,Ventes,5,9542,Haute,Non,6,Oui
+34,R&D,24,4191,Très Haute,Non,5,Non
+45,R&D,4,5982,Très Haute,Non,2,Non
+42,R&D,33,6139,Basse,Non,4,Oui
+34,R&D,1,5390,Basse,Non,10,Non
+49,R&D,11,4802,Moyenne,Non,3,Non
+27,R&D,6,5871,Très Haute,Non,11,Non
+44,Ventes,4,2000,Basse,Non,2,Non
+43,RH,10,6364,Haute,Non,3,Non
+34,R&D,12,5252,Basse,Non,3,Non
+41,R&D,1,4555,Haute,Oui,2,Non
+25,R&D,1,9093,Moyenne,Oui,3,Non
+47,R&D,12,3650,Haute,Oui,6,Oui
+36,R&D,10,4193,Moyenne,Non,6,Non
+32,R&D,33,8983,Haute,Non,7,Non
+48,R&D,14,3335,Moyenne,Non,3,Non
+30,Ventes,30,3899,Haute,Non,5,Non
+23,R&D,12,4705,Très Haute,Non,2,Non
+22,R&D,3,6681,Basse,Non,5,Non
+44,Ventes,1,5415,Très Haute,Non,4,Non
+25,Ventes,15,2414,Haute,Oui,1,Non
+55,R&D,10,3935,Basse,Oui,3,Non
+22,RH,1,3785,Haute,Non,3,Non
+54,Ventes,4,4845,Moyenne,Non,8,Non
+40,R&D,31,5851,Haute,Oui,10,Oui
+37,Ventes,6,5836,Haute,Oui,4,Oui
+32,R&D,5,2000,Basse,Non,5,Oui
+41,R&D,6,7127,Haute,Non,6,Non
+37,RH,2,5505,Très Haute,Non,3,Non
+49,R&D,4,7769,Très Haute,Non,11,Non
+39,R&D,4,5888,Haute,Non,5,Non
+39,R&D,1,7202,Très Haute,Non,5,Non
+34,Ventes,14,5933,Haute,Non,3,Non
+37,R&D,5,7692,Moyenne,Non,7,Non
+41,R&D,17,6044,Très Haute,Non,2,Non
+22,RH,18,4804,Haute,Non,5,Non
+24,R&D,2,9544,Haute,Oui,4,Non
+45,Ventes,10,6778,Haute,Non,6,Non
+39,Ventes,6,6147,Très Haute,Non,4,Non
+36,Ventes,21,2447,Très Haute,Non,5,Non
+38,RH,2,2423,Haute,Non,3,Non
+41,R&D,11,5585,Moyenne,Non,5,Non
+32,R&D,9,5291,Haute,Oui,6,Non
+30,R&D,3,3771,Haute,Non,3,Non
+39,R&D,1,5281,Moyenne,Non,7,Non
+28,R&D,10,8177,Haute,Non,4,Non
+42,Ventes,13,6390,Haute,Non,2,Non
+22,R&D,3,2717,Moyenne,Oui,12,Non
+48,Ventes,10,4776,Basse,Non,4,Non
+42,Ventes,5,3390,Moyenne,Oui,2,Oui
+40,R&D,12,4224,Très Haute,Non,7,Oui
+47,R&D,2,4172,Moyenne,Non,1,Non
+54,R&D,22,4044,Moyenne,Oui,0,Non
+48,R&D,3,2489,Haute,Non,3,Non
+22,R&D,4,4744,Moyenne,Oui,10,Non
+25,R&D,1,3878,Basse,Oui,2,Oui
+31,R&D,1,2000,Moyenne,Non,9,Non
+38,R&D,7,9105,Haute,Non,3,Non
+43,R&D,3,7177,Haute,Non,6,Non
+30,Ventes,18,4247,Moyenne,Non,5,Non
+39,R&D,1,5037,Haute,Non,3,Non
+30,R&D,4,2656,Très Haute,Non,8,Non
+31,R&D,4,8391,Moyenne,Oui,4,Non
+23,R&D,1,8794,Moyenne,Oui,5,Non
+28,R&D,1,5313,Moyenne,Non,4,Non
+24,Ventes,5,7047,Haute,Non,4,Non
+28,R&D,6,5350,Haute,Non,3,Oui
+48,RH,5,2326,Moyenne,Non,5,Non
+28,Ventes,7,4176,Haute,Non,3,Non
+60,R&D,9,5263,Basse,Oui,7,Oui
+42,R&D,1,4090,Haute,Oui,2,Non
+39,Ventes,6,4562,Haute,Non,7,Non
+29,R&D,33,4817,Moyenne,Non,4,Oui
+45,R&D,7,4838,Haute,Non,3,Non
+32,R&D,11,5104,Moyenne,Oui,3,Non
+39,R&D,3,2878,Haute,Non,8,Non
+60,Ventes,14,3565,Basse,Oui,10,Non
+37,Ventes,14,2430,Très Haute,Oui,5,Non
+49,RH,7,6955,Moyenne,Non,8,Non
+30,R&D,37,2000,Très Haute,Non,1,Oui
+37,R&D,1,7307,Moyenne,Non,6,Oui
+55,R&D,1,7772,Haute,Oui,2,Non
+31,R&D,14,4395,Moyenne,Non,4,Non
+56,R&D,16,2000,Très Haute,Non,4,Non
+45,Ventes,1,4277,Basse,Non,8,Non
+32,Ventes,3,4871,Moyenne,Non,7,Non
+44,Ventes,1,2978,Haute,Oui,4,Oui
+47,R&D,3,3969,Basse,Non,7,Non
+44,Ventes,14,8060,Moyenne,Non,5,Non
+22,R&D,7,6329,Très Haute,Oui,7,Non
+30,RH,4,3150,Très Haute,Non,3,Non
+35,R&D,4,2000,Moyenne,Oui,4,Non
+37,R&D,1,4345,Très Haute,Non,8,Non
+44,R&D,3,4573,Haute,Non,7,Non
+39,R&D,10,5992,Moyenne,Oui,2,Non
+24,R&D,36,3929,Haute,Non,2,Non
+41,R&D,18,6022,Haute,Non,6,Non
+44,RH,1,8870,Très Haute,Non,8,Non
+43,RH,22,6631,Moyenne,Non,4,Non
+48,R&D,15,4903,Haute,Non,6,Non
+46,R&D,15,4633,Basse,Non,8,Non
+42,R&D,6,4286,Basse,Non,6,Oui
+37,R&D,5,7361,Basse,Oui,4,Oui
+22,R&D,3,3745,Très Haute,Non,6,Non
+42,R&D,1,5090,Très Haute,Non,6,Oui
+40,RH,2,5102,Haute,Non,4,Non
+40,R&D,2,3996,Haute,Non,4,Non
+25,R&D,6,2255,Moyenne,Non,5,Non
+27,R&D,13,5645,Moyenne,Non,9,Non
+48,RH,6,4877,Moyenne,Non,5,Non
+37,Ventes,1,6000,Moyenne,Non,6,Non
+44,R&D,31,3932,Haute,Non,9,Non
+38,R&D,28,7441,Haute,Non,3,Non
+38,Ventes,15,3246,Basse,Non,10,Non
+47,R&D,47,8424,Basse,Non,7,Oui
+32,R&D,7,2000,Basse,Oui,6,Oui
+38,R&D,32,5869,Haute,Non,5,Non
+33,R&D,1,5950,Très Haute,Non,5,Non
+33,R&D,4,3408,Haute,Oui,9,Non
+34,R&D,2,5848,Très Haute,Oui,7,Non
+40,R&D,2,7559,Haute,Non,7,Non
+33,Ventes,1,2000,Moyenne,Non,5,Non
+50,RH,9,6005,Basse,Non,2,Non
+29,R&D,15,2000,Très Haute,Non,5,Non
+36,R&D,8,3068,Haute,Oui,4,Non
+33,R&D,1,8258,Moyenne,Non,7,Non
+52,R&D,16,3836,Haute,Non,3,Non
+39,R&D,10,2652,Haute,Oui,3,Non
+48,R&D,4,4604,Haute,Non,6,Non
+23,R&D,11,9135,Très Haute,Non,3,Non
+40,R&D,3,2000,Haute,Oui,5,Non
+46,R&D,4,2897,Haute,Oui,3,Non
+38,Ventes,24,7994,Basse,Oui,8,Non
+48,R&D,3,8715,Basse,Non,3,Non
+32,Ventes,6,4793,Moyenne,Non,7,Non
+52,Ventes,22,2521,Basse,Non,5,Non
+60,RH,12,9191,Haute,Non,6,Non
+34,R&D,1,8188,Haute,Non,4,Non
+33,R&D,1,6357,Basse,Non,6,Non
+52,R&D,1,3375,Très Haute,Non,7,Non
+53,RH,9,4901,Moyenne,Oui,10,Oui
+32,R&D,5,4679,Moyenne,Non,7,Non
+33,R&D,1,5661,Moyenne,Non,6,Non
+35,R&D,31,7902,Moyenne,Non,4,Non
+24,RH,7,6758,Moyenne,Non,6,Non
+28,R&D,2,2845,Haute,Non,2,Non
+27,R&D,6,7752,Haute,Non,2,Non
+30,Ventes,11,5626,Très Haute,Non,3,Non
+37,Ventes,1,6374,Basse,Non,9,Non
+40,Ventes,3,7933,Basse,Non,4,Non
+53,Ventes,16,2776,Basse,Non,7,Non
+28,R&D,6,4928,Haute,Non,8,Non
+47,Ventes,7,3937,Basse,Non,6,Non
+35,Ventes,5,2000,Très Haute,Non,3,Non
+37,Ventes,1,5693,Haute,Non,6,Non
+44,Ventes,1,10023,Haute,Non,3,Non
+26,Ventes,5,2000,Haute,Non,7,Non
+41,R&D,2,4935,Moyenne,Non,6,Non
+39,R&D,1,6281,Moyenne,Oui,2,Non
+42,Ventes,18,5246,Moyenne,Oui,1,Non
+40,R&D,39,4773,Haute,Non,2,Oui
+60,R&D,15,2401,Moyenne,Non,5,Non
+31,Ventes,19,5465,Basse,Non,4,Non
+32,R&D,2,3486,Très Haute,Non,5,Non
+31,R&D,32,2000,Basse,Oui,8,Oui
+32,R&D,2,7389,Très Haute,Non,4,Non
+31,R&D,30,6916,Haute,Non,6,Non
+49,Ventes,50,5103,Moyenne,Non,3,Non
+52,RH,12,5458,Basse,Non,4,Oui
+32,R&D,39,7148,Basse,Non,8,Non
+29,RH,8,5448,Haute,Oui,5,Non
+42,Ventes,3,6808,Haute,Non,7,Oui
+32,RH,5,4405,Haute,Non,2,Non
+44,R&D,9,7623,Très Haute,Non,5,Non
+40,R&D,1,5641,Haute,Non,10,Non
+22,Ventes,9,5388,Moyenne,Non,4,Non
+53,R&D,39,2459,Moyenne,Non,5,Non
+55,RH,2,5573,Très Haute,Non,3,Non
+31,R&D,15,3336,Moyenne,Non,3,Non
+34,R&D,23,3723,Basse,Non,8,Non
+40,RH,28,3369,Haute,Non,3,Non
+41,R&D,32,2867,Haute,Non,7,Oui
+44,R&D,7,9249,Très Haute,Non,8,Non
+58,R&D,37,7662,Haute,Non,4,Non
+36,RH,14,8840,Basse,Oui,5,Non
+30,Ventes,1,2554,Très Haute,Oui,6,Oui
+24,R&D,6,5142,Moyenne,Non,1,Non
+30,R&D,12,2412,Moyenne,Non,2,Non
+37,R&D,2,3608,Haute,Non,3,Non
+55,R&D,10,3163,Basse,Non,4,Oui
+32,RH,10,7479,Haute,Oui,4,Non
+40,RH,1,4207,Basse,Non,4,Non
+37,Ventes,8,7136,Haute,Oui,3,Non
+49,R&D,14,6208,Moyenne,Non,5,Non
+60,Ventes,6,9607,Haute,Oui,5,Non
+32,R&D,1,2041,Très Haute,Non,2,Oui
+33,R&D,1,7518,Moyenne,Oui,6,Non
+48,RH,4,7292,Moyenne,Non,3,Non
+44,R&D,26,3053,Moyenne,Non,4,Non
+56,Ventes,2,7014,Moyenne,Non,3,Non
+43,Ventes,10,5672,Haute,Non,6,Non
+34,R&D,2,4545,Haute,Non,4,Non
+43,R&D,3,3352,Moyenne,Oui,1,Non
+49,Ventes,18,3561,Moyenne,Non,9,Non
+46,R&D,13,9099,Basse,Non,7,Non
+43,RH,1,5001,Haute,Oui,5,Non
+48,R&D,5,6564,Basse,Oui,4,Oui
+49,R&D,1,3418,Très Haute,Non,2,Non
+51,R&D,6,3440,Haute,Non,4,Non
+44,R&D,10,7163,Moyenne,Non,5,Non
+36,R&D,1,2300,Haute,Non,4,Non
+39,Ventes,3,4169,Très Haute,Oui,6,Non
+50,RH,5,5068,Haute,Oui,3,Non
+29,R&D,25,5222,Moyenne,Non,7,Non
+41,R&D,49,4641,Moyenne,Oui,5,Oui
+34,R&D,1,5791,Très Haute,Non,6,Non
+38,Ventes,14,6385,Haute,Non,7,Non
+50,Ventes,4,6469,Haute,Oui,2,Non
+39,R&D,4,3028,Très Haute,Non,6,Non
+38,R&D,14,4431,Très Haute,Oui,4,Non
+24,R&D,25,7389,Très Haute,Non,6,Non
+45,R&D,30,6789,Basse,Oui,3,Non
+44,R&D,8,2254,Haute,Non,6,Non
+59,R&D,4,5702,Haute,Non,8,Non
+34,R&D,15,2000,Haute,Non,3,Non
+40,RH,2,5093,Haute,Non,7,Non
+40,R&D,8,8795,Moyenne,Oui,15,Non
+53,R&D,4,3104,Haute,Non,7,Non
+37,Ventes,10,3331,Haute,Non,6,Non
+40,R&D,2,6528,Basse,Non,3,Non
+44,Ventes,2,2000,Haute,Oui,2,Non
+39,R&D,25,3734,Moyenne,Non,5,Non
+33,Ventes,1,6192,Moyenne,Oui,6,Non
+39,R&D,7,3731,Basse,Non,6,Oui
+48,R&D,2,4528,Haute,Oui,4,Oui
+27,R&D,1,6488,Haute,Non,1,Non
+39,Ventes,1,5843,Haute,Non,6,Oui
+30,Ventes,1,5533,Haute,Non,8,Non
+49,R&D,20,4321,Très Haute,Non,2,Non
+22,Ventes,3,5740,Moyenne,Oui,2,Non
+32,R&D,30,4752,Basse,Non,2,Oui
+41,R&D,8,5915,Très Haute,Oui,5,Non
+53,R&D,5,4006,Moyenne,Non,7,Non
+37,R&D,8,4634,Très Haute,Non,7,Non
+32,R&D,7,3020,Très Haute,Non,9,Oui
+56,Ventes,14,4929,Haute,Non,4,Non
+23,Ventes,3,3377,Très Haute,Non,7,Non
+22,Ventes,4,2771,Basse,Non,5,Non
+42,Ventes,22,5517,Moyenne,Oui,7,Non
+32,Ventes,29,5425,Haute,Non,7,Non
+27,R&D,22,6565,Moyenne,Non,3,Non
+45,R&D,5,4137,Très Haute,Non,5,Non
+40,R&D,15,5816,Basse,Oui,5,Non
+32,R&D,6,6101,Haute,Non,5,Non
+25,R&D,6,5889,Haute,Non,5,Non
+46,R&D,2,3348,Haute,Oui,8,Non
+44,Ventes,8,5298,Moyenne,Non,2,Non
+37,R&D,2,5728,Moyenne,Non,6,Non
+56,Ventes,4,5014,Très Haute,Non,6,Non
+27,Ventes,19,2000,Moyenne,Non,6,Oui
+22,R&D,2,5320,Très Haute,Non,1,Non
+31,RH,1,9425,Haute,Oui,10,Non
+37,R&D,1,4279,Haute,Non,5,Non
+40,Ventes,28,3543,Haute,Oui,3,Oui
+35,R&D,7,5746,Moyenne,Non,0,Non
+41,R&D,5,5624,Haute,Non,7,Non
+25,R&D,16,7385,Très Haute,Non,4,Non
+52,R&D,18,2484,Haute,Non,6,Oui
+37,R&D,4,6462,Très Haute,Oui,4,Non
+49,Ventes,11,6180,Haute,Non,2,Non
+41,R&D,14,4715,Basse,Non,4,Non
+42,R&D,10,5677,Moyenne,Oui,9,Oui
+43,R&D,1,7058,Très Haute,Non,4,Non
+42,R&D,20,6744,Moyenne,Non,5,Non
+44,RH,7,2713,Très Haute,Non,8,Non
+51,RH,3,6640,Très Haute,Oui,2,Non
+39,R&D,5,4870,Moyenne,Non,2,Non
+45,R&D,1,5145,Basse,Oui,5,Non
+37,RH,1,5146,Haute,Oui,4,Oui
+52,Ventes,14,4699,Moyenne,Non,8,Oui
+31,Ventes,1,7383,Haute,Oui,6,Non
+56,R&D,5,4832,Haute,Oui,9,Oui
+37,R&D,7,2760,Haute,Non,7,Oui
+23,R&D,1,4212,Haute,Non,2,Non
+39,R&D,36,5357,Moyenne,Oui,8,Oui
+31,Ventes,2,7458,Haute,Oui,3,Non
+46,Ventes,3,6206,Moyenne,Non,5,Non
+31,R&D,3,3298,Moyenne,Non,4,Non
+33,Ventes,2,9970,Haute,Non,5,Non
+22,R&D,1,5529,Très Haute,Oui,4,Non
+33,Ventes,13,7550,Moyenne,Oui,8,Oui
+22,R&D,34,4696,Haute,Oui,0,Oui
+22,R&D,2,6066,Haute,Oui,7,Oui
+45,R&D,10,6678,Moyenne,Non,4,Non
+45,R&D,13,7436,Moyenne,Oui,5,Non
+42,Ventes,18,7114,Très Haute,Non,2,Non
+28,R&D,5,6744,Haute,Non,3,Non
+37,R&D,3,4369,Haute,Non,3,Non
+37,R&D,3,3856,Haute,Non,1,Non
+26,R&D,12,5665,Basse,Non,3,Oui
+53,Ventes,16,6866,Haute,Non,4,Non
+46,R&D,2,4554,Haute,Non,4,Non
+35,R&D,4,7130,Haute,Non,7,Non
+38,R&D,23,7905,Moyenne,Non,9,Non
+40,Ventes,16,3167,Basse,Non,1,Non
+22,RH,41,3326,Moyenne,Non,3,Non
+35,R&D,14,4719,Très Haute,Non,5,Non
+31,Ventes,4,5615,Haute,Non,1,Non
+27,R&D,8,3950,Haute,Non,3,Non
+35,R&D,10,7704,Basse,Oui,5,Oui
+55,R&D,1,5848,Basse,Oui,7,Non
+44,R&D,7,5078,Haute,Non,4,Non
+32,R&D,12,2128,Haute,Oui,6,Oui
+43,R&D,1,2368,Haute,Non,4,Non
+51,R&D,15,5562,Moyenne,Oui,3,Non
+47,Ventes,8,2000,Haute,Non,5,Non
+38,R&D,30,7025,Moyenne,Non,4,Non
+31,RH,1,4683,Moyenne,Non,4,Non
+44,R&D,3,11486,Haute,Non,4,Non
+41,R&D,9,9615,Moyenne,Non,5,Non
+46,R&D,3,4637,Moyenne,Non,4,Non
+44,R&D,12,4787,Haute,Non,8,Non
+48,R&D,14,6991,Haute,Oui,3,Non
+32,R&D,1,8406,Très Haute,Non,5,Non
+51,Ventes,7,2000,Haute,Non,4,Non
+39,RH,7,2000,Basse,Non,3,Non
+58,R&D,4,3755,Moyenne,Non,5,Non
+31,R&D,27,6165,Très Haute,Non,5,Non
+55,R&D,17,5993,Haute,Oui,5,Oui
+39,R&D,11,7139,Haute,Oui,2,Non
+31,Ventes,12,2600,Basse,Non,4,Non
+33,R&D,6,2000,Haute,Non,4,Non
+34,R&D,25,6716,Basse,Non,7,Oui
+42,Ventes,11,3343,Haute,Non,2,Non
+43,Ventes,13,2000,Très Haute,Non,3,Non
+32,R&D,19,5290,Très Haute,Non,4,Non
+37,R&D,3,6586,Haute,Non,5,Non
+59,Ventes,16,4755,Haute,Oui,7,Non
+55,R&D,2,4084,Très Haute,Oui,5,Non
+42,R&D,4,4681,Haute,Oui,3,Non
+38,R&D,4,4258,Basse,Oui,2,Non
+39,R&D,38,2303,Haute,Oui,5,Non
+44,R&D,19,3570,Moyenne,Oui,7,Oui
+27,Ventes,12,6042,Haute,Non,5,Non
+35,Ventes,12,5643,Haute,Non,5,Non
+22,R&D,8,5336,Haute,Non,7,Non
+41,R&D,29,3009,Moyenne,Oui,7,Non
+44,R&D,6,4636,Moyenne,Non,10,Non
+33,R&D,4,2000,Haute,Non,4,Non
+53,R&D,1,5356,Très Haute,Oui,4,Non
+25,R&D,15,7857,Haute,Non,0,Non
+23,Ventes,13,2051,Moyenne,Oui,3,Non
+40,Ventes,4,3828,Très Haute,Non,3,Non
+48,R&D,1,5658,Très Haute,Non,2,Non
+54,Ventes,18,7505,Moyenne,Non,9,Non
+33,Ventes,1,4103,Basse,Non,8,Oui
+48,R&D,12,3615,Haute,Non,8,Non
+37,R&D,35,2000,Très Haute,Non,4,Non
+36,R&D,5,5206,Très Haute,Non,10,Non
+46,Ventes,2,9084,Très Haute,Oui,3,Non
+44,Ventes,12,5554,Haute,Oui,2,Non
+22,R&D,16,4955,Haute,Non,2,Non
+52,R&D,7,5644,Basse,Non,2,Non
+51,R&D,34,4977,Moyenne,Non,6,Non
+31,R&D,1,3373,Haute,Oui,2,Oui
+41,R&D,7,6646,Haute,Non,9,Non
+42,RH,12,5451,Haute,Oui,8,Oui
+40,Ventes,19,5035,Haute,Non,4,Non
+32,R&D,1,3049,Moyenne,Non,4,Non
+31,R&D,16,7607,Haute,Non,3,Non
+37,RH,8,6329,Basse,Oui,9,Non
+49,RH,5,3894,Haute,Non,10,Non
+43,Ventes,1,7003,Haute,Non,5,Non
+34,R&D,20,4004,Haute,Non,5,Non
+45,R&D,1,3435,Très Haute,Non,9,Non
+22,Ventes,3,3480,Moyenne,Non,2,Non
+49,Ventes,3,2000,Haute,Non,5,Non
+22,R&D,20,5943,Moyenne,Non,5,Non
+34,R&D,11,2000,Haute,Non,8,Non
+26,Ventes,15,2543,Très Haute,Non,6,Non
+25,R&D,2,2000,Haute,Non,6,Oui
+49,Ventes,9,4827,Très Haute,Oui,7,Non
+33,R&D,8,4699,Moyenne,Non,5,Non
+41,R&D,17,4346,Très Haute,Non,5,Non
+37,Ventes,23,2914,Basse,Oui,7,Oui
+42,R&D,1,2655,Très Haute,Non,4,Non
+38,Ventes,11,5928,Moyenne,Oui,4,Non
+25,R&D,1,3898,Moyenne,Non,6,Non
+47,Ventes,7,5632,Haute,Non,6,Non
+33,R&D,3,3229,Très Haute,Non,4,Non
+22,Ventes,3,5362,Basse,Non,3,Non
+33,R&D,4,7606,Moyenne,Non,3,Non
+53,R&D,9,6172,Très Haute,Non,10,Non
+46,Ventes,4,4175,Moyenne,Oui,6,Non
+34,R&D,13,5514,Moyenne,Oui,6,Non
+34,Ventes,5,4518,Haute,Oui,4,Oui
+34,R&D,1,5015,Moyenne,Non,1,Non
+58,Ventes,15,4348,Très Haute,Oui,5,Non
+41,R&D,3,4671,Haute,Oui,7,Non
+42,R&D,5,5424,Haute,Non,4,Oui
+48,RH,11,3013,Très Haute,Non,3,Non
+40,R&D,4,2968,Haute,Non,5,Non
+35,R&D,1,2222,Basse,Oui,7,Oui
+36,R&D,4,2000,Moyenne,Oui,9,Non
+37,RH,28,2565,Haute,Non,2,Non
+37,R&D,10,5318,Moyenne,Non,6,Non
+45,Ventes,11,3214,Très Haute,Non,2,Non
+38,R&D,10,6027,Haute,Non,3,Non
+45,R&D,2,5069,Moyenne,Non,5,Non
+37,R&D,5,2000,Haute,Oui,3,Oui
+38,R&D,13,6309,Haute,Non,4,Non
+22,Ventes,1,6621,Très Haute,Non,5,Non
+47,R&D,3,3012,Très Haute,Non,4,Non
+41,Ventes,3,5840,Haute,Non,5,Non
+47,Ventes,5,3287,Haute,Non,2,Non
+22,Ventes,39,5195,Haute,Oui,4,Oui
+58,R&D,1,2471,Haute,Non,5,Non
+36,Ventes,7,2000,Basse,Non,6,Oui
+49,Ventes,1,4234,Basse,Non,10,Non
+27,R&D,35,4752,Haute,Non,5,Oui
+44,Ventes,1,4204,Moyenne,Non,6,Non
+27,Ventes,5,2631,Basse,Non,7,Oui
+31,Ventes,13,4200,Haute,Non,4,Non
+57,R&D,12,5538,Basse,Oui,7,Non
+36,R&D,5,4910,Haute,Non,6,Non
+40,Ventes,4,5365,Haute,Oui,2,Non
+46,RH,5,3659,Très Haute,Non,3,Non
+42,R&D,3,7343,Haute,Non,4,Oui
+39,R&D,2,2647,Basse,Non,4,Oui
+41,R&D,6,5975,Haute,Non,5,Non
+60,R&D,3,7363,Très Haute,Non,7,Non
+37,R&D,3,5961,Très Haute,Oui,3,Non
+40,Ventes,10,4594,Haute,Non,3,Non
+48,Ventes,34,3943,Moyenne,Oui,6,Non
+49,R&D,9,7072,Très Haute,Non,3,Non
+49,Ventes,1,2154,Moyenne,Non,9,Non
+44,R&D,1,3059,Haute,Non,7,Non
+26,R&D,30,4204,Haute,Non,5,Non
+54,R&D,3,7475,Basse,Oui,6,Oui
+26,R&D,1,5759,Moyenne,Oui,6,Non
+41,R&D,9,3063,Moyenne,Non,3,Non
+30,Ventes,9,4379,Haute,Non,8,Non
+37,R&D,10,3771,Très Haute,Oui,10,Non
+41,R&D,3,3580,Moyenne,Non,6,Non
+41,R&D,1,6957,Très Haute,Non,7,Non
+42,RH,33,2256,Basse,Oui,2,Oui
+54,RH,2,8217,Haute,Non,5,Non
+42,RH,11,6656,Basse,Oui,8,Non
+35,R&D,12,7181,Très Haute,Non,6,Non
+47,R&D,9,4074,Haute,Non,2,Non
+49,R&D,3,4700,Haute,Non,3,Non
+25,R&D,3,2133,Très Haute,Non,10,Non
+43,R&D,9,3950,Haute,Oui,3,Non
+45,Ventes,20,5987,Très Haute,Non,4,Non
+35,RH,29,7592,Haute,Non,9,Non
+51,R&D,1,2785,Très Haute,Oui,2,Non
+36,RH,1,4268,Haute,Non,5,Non
+39,R&D,28,4697,Basse,Non,1,Non
+36,Ventes,13,2208,Haute,Non,5,Non
+38,Ventes,21,6182,Basse,Non,9,Oui
+27,Ventes,2,3552,Haute,Oui,2,Non
+23,Ventes,8,4609,Haute,Oui,5,Non
+53,R&D,12,4096,Haute,Non,6,Non
+29,R&D,11,3421,Basse,Oui,7,Oui
+28,R&D,5,4985,Moyenne,Non,3,Non
+22,R&D,1,4568,Haute,Non,7,Non
+31,Ventes,8,4256,Très Haute,Non,7,Non
+24,Ventes,2,3543,Moyenne,Non,6,Non
+54,Ventes,5,5639,Haute,Non,4,Non
+48,R&D,31,8307,Haute,Non,10,Non
+31,R&D,5,5279,Haute,Non,6,Non
+60,Ventes,18,6992,Moyenne,Oui,8,Non
+47,R&D,2,2219,Haute,Non,3,Oui
+34,Ventes,11,5315,Moyenne,Non,6,Non
+22,R&D,37,2805,Très Haute,Oui,9,Oui
+60,R&D,1,2046,Basse,Non,3,Oui
+24,R&D,1,3521,Moyenne,Oui,7,Non
+22,R&D,5,7383,Basse,Non,4,Non
+48,RH,1,6900,Moyenne,Non,3,Non
+60,Ventes,13,5486,Haute,Oui,9,Non
+51,R&D,24,2000,Moyenne,Non,4,Non
+43,R&D,5,4607,Basse,Non,4,Non
+43,R&D,2,5603,Haute,Oui,3,Non
+46,RH,5,5351,Basse,Non,2,Non
+45,R&D,12,2000,Basse,Non,3,Oui
+40,R&D,1,3219,Très Haute,Non,6,Non
+39,Ventes,8,4871,Haute,Non,12,Non
+37,R&D,9,6072,Très Haute,Non,7,Non
+30,Ventes,10,2000,Très Haute,Non,4,Non
+35,Ventes,2,4675,Haute,Oui,7,Oui
+22,R&D,12,5286,Basse,Non,5,Non
+37,R&D,1,6699,Haute,Non,8,Non
+28,Ventes,2,6385,Très Haute,Non,4,Non
+26,R&D,20,6165,Haute,Oui,7,Oui
+39,R&D,13,3400,Haute,Non,5,Non
+51,Ventes,1,2000,Moyenne,Non,2,Non
+47,R&D,2,4213,Très Haute,Non,4,Non
+22,R&D,2,7003,Haute,Non,6,Non
+28,R&D,3,7786,Très Haute,Non,6,Non
+47,R&D,2,6421,Moyenne,Non,4,Non
+28,R&D,1,5858,Moyenne,Non,3,Non
+35,R&D,6,5759,Moyenne,Non,4,Non
+43,RH,13,3887,Haute,Non,5,Non
+28,R&D,9,4739,Moyenne,Non,7,Non
+39,Ventes,11,8338,Basse,Oui,10,Oui
+24,R&D,1,3114,Très Haute,Non,7,Non
+31,R&D,30,8229,Basse,Non,5,Oui
+41,Ventes,18,4355,Très Haute,Oui,3,Non
+22,RH,16,7650,Moyenne,Non,4,Non
+42,RH,17,2186,Très Haute,Non,4,Non
+37,Ventes,26,6171,Haute,Non,8,Non
+43,RH,7,3526,Très Haute,Non,8,Non
+40,R&D,2,2169,Très Haute,Oui,4,Non
+51,R&D,9,5437,Basse,Oui,4,Oui
+39,R&D,13,7018,Basse,Non,8,Non
+33,R&D,13,3310,Moyenne,Oui,4,Oui
+39,R&D,7,2001,Haute,Non,6,Non
+43,R&D,1,4816,Très Haute,Non,6,Non
+38,Ventes,4,4825,Haute,Non,1,Non
+38,R&D,25,6096,Haute,Non,5,Oui
+30,Ventes,8,6899,Moyenne,Non,3,Non
+31,R&D,7,4881,Très Haute,Non,9,Non
+23,R&D,3,8711,Très Haute,Oui,4,Oui
+55,R&D,4,5448,Moyenne,Non,8,Non
+25,R&D,22,4307,Haute,Non,8,Non
+31,Ventes,10,2000,Basse,Oui,2,Oui
+30,Ventes,15,4474,Haute,Non,6,Non
+46,Ventes,6,4327,Haute,Oui,9,Non
+35,R&D,9,6920,Basse,Non,4,Non
+50,RH,2,5924,Haute,Oui,4,Oui
+31,Ventes,12,2641,Moyenne,Oui,6,Non
+40,RH,5,5344,Haute,Oui,13,Non
+29,R&D,5,6343,Haute,Non,6,Non
+59,R&D,10,8056,Basse,Non,8,Non
+26,R&D,27,6775,Haute,Non,8,Non
+41,R&D,1,6521,Haute,Non,1,Non
+44,Ventes,17,5120,Moyenne,Non,8,Non
+42,R&D,3,5776,Basse,Oui,4,Non
+36,R&D,5,7499,Haute,Non,4,Non
+36,R&D,1,2334,Très Haute,Non,2,Non
+38,R&D,3,4301,Moyenne,Non,6,Non
+36,Ventes,6,3454,Moyenne,Non,6,Non
+47,R&D,1,5758,Moyenne,Non,3,Non
+60,R&D,6,7460,Haute,Oui,5,Oui
+32,R&D,26,3806,Moyenne,Non,8,Non
+24,R&D,1,2000,Moyenne,Oui,9,Non
+37,R&D,14,4175,Haute,Non,3,Non
+60,R&D,5,6826,Haute,Non,2,Non
+29,R&D,10,6075,Moyenne,Non,7,Non
+54,R&D,3,5856,Haute,Non,6,Non
+54,R&D,1,4440,Haute,Non,6,Non
+32,Ventes,1,2441,Basse,Non,6,Non
+43,Ventes,1,6030,Basse,Non,4,Non
+54,Ventes,2,3331,Très Haute,Non,6,Non
+34,R&D,10,9368,Basse,Non,10,Non
+35,R&D,21,6141,Haute,Oui,4,Non
+32,R&D,16,3838,Très Haute,Non,3,Non
+27,R&D,11,3777,Moyenne,Non,0,Non
+31,Ventes,1,4814,Moyenne,Non,8,Non
+25,Ventes,3,4520,Haute,Non,3,Non
+38,Ventes,3,7233,Très Haute,Non,4,Oui
+30,R&D,2,5372,Très Haute,Oui,5,Non
+40,Ventes,7,3536,Haute,Oui,3,Non
+22,Ventes,7,8780,Basse,Oui,2,Oui
+41,RH,4,5098,Haute,Non,8,Non
+46,R&D,4,6537,Haute,Non,4,Oui
+22,Ventes,17,3783,Haute,Non,3,Non
+41,R&D,15,5726,Basse,Non,8,Oui
+50,R&D,3,5622,Moyenne,Oui,5,Non
+25,R&D,24,2000,Haute,Non,6,Non
+54,R&D,30,9030,Haute,Non,7,Non
+42,Ventes,3,7581,Moyenne,Non,10,Non
+30,R&D,4,4205,Moyenne,Non,7,Non
+37,R&D,7,2795,Très Haute,Non,3,Non
+43,Ventes,28,5695,Haute,Non,3,Non
+38,R&D,20,5173,Moyenne,Non,7,Non
+43,R&D,1,5711,Basse,Oui,3,Non
+28,R&D,4,5383,Moyenne,Oui,3,Oui
+39,Ventes,8,6012,Très Haute,Non,3,Non
+23,R&D,6,7894,Haute,Non,8,Non
+36,Ventes,2,6136,Haute,Non,2,Non
+28,R&D,19,2900,Haute,Non,5,Non
+30,Ventes,11,7725,Moyenne,Non,4,Non
+50,Ventes,18,8281,Très Haute,Oui,2,Non
+48,R&D,19,11304,Haute,Non,3,Non
+44,R&D,13,2753,Basse,Non,2,Oui
+27,R&D,5,5485,Basse,Oui,6,Non
+34,R&D,9,2000,Haute,Non,3,Non
+50,Ventes,1,6106,Très Haute,Non,6,Non
+39,R&D,11,3903,Moyenne,Non,5,Non
+60,R&D,1,8846,Très Haute,Non,4,Non
+41,Ventes,11,3450,Haute,Non,6,Non
+39,RH,2,2000,Moyenne,Non,6,Non
+34,Ventes,1,4057,Basse,Non,6,Oui
+39,RH,1,2000,Basse,Non,7,Non
+36,R&D,1,6502,Haute,Non,10,Non
+45,R&D,12,2000,Moyenne,Non,12,Non
+47,RH,13,5056,Moyenne,Oui,5,Oui
+30,R&D,7,2000,Haute,Oui,7,Oui
+24,Ventes,1,4359,Haute,Non,10,Oui
+22,R&D,1,8286,Basse,Non,2,Oui
+43,Ventes,1,5721,Haute,Non,4,Non
+26,R&D,1,3273,Haute,Oui,6,Non
+22,R&D,22,4937,Haute,Non,4,Non
+41,R&D,2,5036,Très Haute,Non,5,Non
+60,R&D,4,5945,Moyenne,Oui,3,Non
+37,R&D,1,2266,Très Haute,Oui,3,Non
+46,R&D,2,6185,Haute,Non,3,Non
+38,Ventes,7,2000,Haute,Non,6,Non
+37,R&D,9,3740,Haute,Oui,5,Non
+47,Ventes,2,4023,Haute,Non,9,Non
+35,R&D,1,6266,Basse,Non,1,Non
+40,Ventes,4,5045,Haute,Non,5,Non
+41,R&D,2,2188,Haute,Non,6,Non
+31,Ventes,2,3030,Haute,Non,5,Non
+47,Ventes,32,5397,Moyenne,Oui,8,Oui
+36,RH,9,4841,Très Haute,Non,4,Non
+30,Ventes,8,3841,Haute,Non,6,Non
+43,R&D,5,4038,Basse,Non,5,Non
+29,Ventes,5,6392,Haute,Non,7,Non
+38,R&D,7,3964,Haute,Oui,4,Non
+37,R&D,11,4823,Haute,Non,7,Non
+48,R&D,12,9339,Haute,Non,4,Non
+42,Ventes,1,2152,Très Haute,Non,5,Oui
+37,R&D,6,2000,Moyenne,Non,5,Oui
+46,R&D,5,6567,Haute,Oui,5,Non
+51,R&D,20,3642,Très Haute,Non,6,Non
+43,R&D,9,4363,Très Haute,Non,5,Non
+38,R&D,7,3437,Haute,Non,3,Non
+24,Ventes,1,4480,Très Haute,Non,3,Non
+27,Ventes,9,8197,Basse,Non,5,Non
+34,Ventes,1,6604,Très Haute,Non,4,Non
+31,Ventes,4,6724,Moyenne,Oui,5,Non
+36,Ventes,1,2167,Moyenne,Non,2,Non
+38,R&D,11,2697,Moyenne,Non,8,Non
+43,R&D,2,2000,Haute,Oui,4,Oui
+37,RH,4,3381,Moyenne,Non,1,Non
+42,Ventes,22,6913,Moyenne,Non,3,Non
+38,R&D,2,6033,Basse,Non,6,Non
+22,R&D,7,4556,Moyenne,Non,7,Non
+28,R&D,5,4955,Haute,Non,5,Non
+36,Ventes,1,3622,Haute,Oui,3,Non
+25,Ventes,15,5409,Moyenne,Non,5,Non
+43,Ventes,1,6531,Haute,Non,4,Non
+53,R&D,6,2000,Très Haute,Non,4,Non
+50,R&D,8,5599,Haute,Non,2,Non
+35,Ventes,9,6864,Moyenne,Oui,3,Non
+52,Ventes,11,4169,Haute,Non,4,Non
+39,R&D,2,6401,Moyenne,Non,6,Non
+34,R&D,1,10629,Basse,Oui,8,Non
+31,R&D,12,4791,Moyenne,Non,5,Non
+34,R&D,7,5786,Très Haute,Non,2,Non
+34,R&D,18,3523,Moyenne,Non,3,Non
+39,Ventes,17,5362,Basse,Non,6,Oui
+39,R&D,18,5920,Basse,Non,6,Non
+38,R&D,6,5389,Très Haute,Non,9,Non
+42,RH,4,2960,Haute,Oui,5,Non
+49,Ventes,15,5412,Moyenne,Non,3,Non
+47,R&D,6,7924,Haute,Oui,6,Non
+23,R&D,2,5897,Haute,Oui,4,Non
+22,R&D,19,6923,Haute,Oui,5,Non
+47,Ventes,21,4525,Moyenne,Oui,4,Non
+24,R&D,6,6499,Très Haute,Oui,7,Non
+35,R&D,1,5558,Moyenne,Non,9,Non
+26,R&D,4,3098,Haute,Non,6,Non
+22,R&D,16,5637,Basse,Oui,5,Oui
+43,Ventes,23,3016,Moyenne,Oui,2,Non
+45,Ventes,2,3734,Moyenne,Non,7,Oui
+32,R&D,1,5378,Haute,Non,2,Non
+22,R&D,20,5594,Basse,Non,5,Non
+32,RH,4,2621,Haute,Non,5,Non
+41,R&D,7,7107,Moyenne,Non,4,Non
+23,R&D,34,6144,Haute,Non,2,Non
+39,R&D,1,3590,Très Haute,Oui,11,Non
+37,R&D,10,2000,Haute,Non,5,Non
+43,R&D,1,4710,Haute,Non,8,Non
+39,Ventes,4,4108,Haute,Non,10,Non
+28,R&D,16,5226,Moyenne,Non,10,Non
+49,R&D,5,4273,Très Haute,Non,5,Non
+36,R&D,50,2000,Moyenne,Oui,2,Non
+37,R&D,8,4223,Haute,Oui,7,Non
+28,Ventes,3,4388,Haute,Non,7,Non
+33,R&D,2,6267,Moyenne,Non,10,Non
+29,R&D,4,3603,Moyenne,Non,3,Non
+36,R&D,4,8357,Haute,Non,7,Non
+55,Ventes,1,2000,Très Haute,Non,6,Non
+24,Ventes,4,7622,Très Haute,Oui,2,Non
+22,R&D,6,4551,Haute,Oui,2,Oui
+52,R&D,12,6719,Haute,Non,3,Non
+35,R&D,10,5159,Très Haute,Oui,4,Non
+31,Ventes,12,7279,Basse,Oui,2,Non
+48,R&D,1,4225,Moyenne,Non,9,Oui
+31,Ventes,2,2802,Haute,Oui,7,Non
+56,Ventes,10,7841,Très Haute,Non,8,Non
+44,R&D,6,4773,Très Haute,Non,3,Non
+33,R&D,1,5443,Haute,Non,7,Non
+59,Ventes,16,7469,Basse,Non,3,Non
+31,Ventes,14,2936,Haute,Non,10,Non
+45,Ventes,7,6190,Moyenne,Non,4,Non
+40,R&D,1,3820,Moyenne,Non,7,Non
+51,R&D,14,4735,Haute,Non,2,Non
+53,R&D,8,5144,Basse,Oui,2,Non
+38,R&D,15,2000,Très Haute,Oui,5,Non
+30,R&D,13,3442,Haute,Non,10,Oui
+42,Ventes,16,7702,Haute,Non,6,Non
+31,RH,7,6772,Basse,Non,4,Non
+58,R&D,1,4874,Moyenne,Non,1,Non
+39,Ventes,11,5486,Basse,Oui,8,Non
+34,Ventes,9,4411,Très Haute,Non,5,Non
+39,Ventes,13,7713,Très Haute,Non,3,Non
+24,Ventes,1,4599,Haute,Oui,4,Non
+28,R&D,2,5463,Moyenne,Non,3,Non
+50,R&D,22,7292,Très Haute,Non,3,Non
+31,R&D,13,3445,Moyenne,Non,4,Non
+27,R&D,23,8117,Moyenne,Oui,4,Oui
+43,R&D,14,2000,Haute,Non,5,Non
+49,R&D,9,8259,Très Haute,Non,3,Non
+45,Ventes,10,4254,Basse,Non,6,Non
+47,R&D,21,4514,Moyenne,Non,4,Non
+30,R&D,8,2000,Très Haute,Oui,6,Non
+23,Ventes,10,4090,Moyenne,Non,6,Non
+53,Ventes,1,2920,Basse,Non,5,Oui
+34,R&D,6,3784,Haute,Oui,7,Non
+35,R&D,12,4725,Très Haute,Non,5,Non
+51,Ventes,3,6915,Haute,Non,6,Non
+43,R&D,2,5415,Très Haute,Non,4,Oui
+42,R&D,3,5615,Haute,Oui,8,Non
+59,R&D,2,2808,Basse,Non,11,Non
+31,Ventes,2,3238,Très Haute,Non,6,Non
+47,RH,5,8597,Haute,Non,3,Non
+38,R&D,23,3529,Moyenne,Non,4,Non
+40,Ventes,7,8312,Haute,Non,8,Non
+53,R&D,2,4513,Moyenne,Oui,6,Non
+43,R&D,1,5004,Basse,Non,5,Non
+43,Ventes,11,7140,Basse,Non,6,Non
+48,Ventes,4,7543,Haute,Non,4,Non
+34,Ventes,17,4778,Très Haute,Non,5,Non
+29,RH,10,4223,Haute,Non,14,Non
+27,Ventes,15,4888,Très Haute,Non,4,Non
+22,R&D,3,5675,Moyenne,Non,6,Non
+58,RH,11,6782,Moyenne,Oui,2,Non
+26,Ventes,3,5008,Moyenne,Oui,5,Non
+35,RH,27,6237,Moyenne,Non,5,Non
+35,RH,10,8276,Moyenne,Oui,4,Non
+41,R&D,3,5762,Haute,Non,3,Non
+46,Ventes,3,5623,Très Haute,Oui,6,Non
+46,R&D,2,2000,Très Haute,Non,5,Non
+32,R&D,11,2000,Moyenne,Non,7,Non
+36,RH,2,5776,Très Haute,Non,8,Non
+40,Ventes,9,4810,Moyenne,Non,6,Non
+35,R&D,3,3970,Basse,Non,5,Non
+54,R&D,10,5487,Très Haute,Oui,8,Non
+42,Ventes,16,4879,Haute,Oui,9,Oui
+45,R&D,15,7255,Moyenne,Non,3,Non
+44,R&D,14,5172,Haute,Non,5,Non
+49,R&D,2,3506,Moyenne,Non,2,Non
+39,R&D,1,6980,Haute,Non,6,Oui
+25,RH,12,4565,Haute,Non,9,Non
+41,R&D,4,6053,Très Haute,Non,5,Non
+31,R&D,5,4045,Basse,Oui,7,Oui
+32,R&D,1,3700,Moyenne,Non,7,Non
+43,R&D,3,5168,Haute,Non,3,Non
+50,R&D,1,5025,Haute,Non,5,Non
+38,RH,21,5959,Moyenne,Non,5,Non
+41,R&D,2,4462,Haute,Non,4,Non
+55,R&D,8,2000,Très Haute,Non,5,Non
+40,Ventes,1,4134,Très Haute,Non,4,Non
+60,Ventes,10,6587,Très Haute,Oui,8,Non
+43,R&D,3,4405,Très Haute,Oui,7,Non
+22,Ventes,22,4507,Haute,Non,6,Non
+45,Ventes,21,6972,Très Haute,Non,7,Non
+41,R&D,3,3576,Moyenne,Non,10,Non
+50,Ventes,23,2000,Moyenne,Oui,4,Non
+44,Ventes,50,4678,Moyenne,Oui,9,Oui
+36,R&D,17,4031,Haute,Non,9,Non
+25,R&D,18,3067,Moyenne,Non,9,Non
+35,RH,2,4649,Très Haute,Non,3,Non
+29,R&D,8,5983,Moyenne,Non,3,Oui
+32,R&D,1,4981,Basse,Oui,8,Oui
+43,RH,1,5613,Haute,Non,6,Oui
+54,R&D,50,8626,Basse,Non,9,Oui
+41,Ventes,3,4314,Basse,Non,2,Non
+26,Ventes,13,5556,Moyenne,Non,6,Oui
+42,R&D,16,3981,Haute,Oui,2,Non
+49,R&D,19,3307,Haute,Oui,9,Oui
+31,R&D,50,3830,Haute,Oui,6,Non
+36,R&D,2,4042,Haute,Oui,1,Non
+38,R&D,1,5718,Haute,Non,3,Non
+30,RH,5,9698,Moyenne,Non,4,Non
+44,R&D,1,3567,Moyenne,Non,4,Non
+36,Ventes,1,4166,Haute,Non,6,Non
+42,R&D,4,4873,Basse,Non,8,Non
+29,Ventes,15,5791,Basse,Oui,5,Oui
+33,R&D,8,5527,Haute,Non,11,Non
+45,RH,3,7568,Haute,Non,9,Non
+34,R&D,10,2000,Basse,Non,5,Non
+55,R&D,2,2000,Moyenne,Non,4,Non
+34,R&D,1,4008,Très Haute,Non,3,Non
+40,R&D,14,7194,Très Haute,Non,12,Non
+47,R&D,9,2000,Haute,Non,5,Non
+23,R&D,14,2000,Haute,Oui,12,Non
+22,R&D,1,6142,Haute,Non,4,Non
+22,R&D,18,5487,Très Haute,Oui,5,Non
+50,Ventes,9,2819,Très Haute,Non,3,Non
+32,R&D,8,3028,Moyenne,Oui,3,Non
+60,R&D,9,3060,Très Haute,Non,5,Non
+32,R&D,19,5221,Moyenne,Oui,3,Non
+39,R&D,8,3747,Moyenne,Non,8,Non
+53,R&D,8,5988,Haute,Non,6,Non
+58,R&D,46,2000,Haute,Non,4,Non
+58,R&D,14,3286,Très Haute,Non,2,Non
+50,R&D,5,2747,Basse,Non,8,Non
+48,Ventes,12,4487,Haute,Non,7,Non
+43,RH,4,3923,Très Haute,Non,3,Non
