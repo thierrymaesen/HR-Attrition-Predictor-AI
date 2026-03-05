@@ -76,16 +76,15 @@ if uploaded_file is not None:
                 idx_critique = haut_risque.index[0]
                 ligne_critique = df_process.loc[[idx_critique]]
                 
-                # SHAP pour Random Forest
+                                # --- EXPLAINABLE AI (SHAP) ---
                 explainer = shap.TreeExplainer(rf_model)
-                shap_values = explainer.shap_values(ligne_critique)
+                # On utilise la nouvelle API SHAP qui gère mieux les graphiques Waterfall
+                shap_obj = explainer(ligne_critique)
                 
-                # Créer le graphique (Pour Random Forest, on prend l'index 1 pour la classe positive)
                 fig, ax = plt.subplots(figsize=(10, 5))
-                shap.waterfall_plot(shap.Explanation(values=shap_values[1][0], 
-                                                     base_values=explainer.expected_value[1], 
-                                                     data=ligne_critique.iloc[0], 
-                                                     feature_names=feature_names), show=False)
+                # On sélectionne l'employé [0] et la classe [1] (démission = Oui)
+                shap.plots.waterfall(shap_obj[0, :, 1], show=False)
+
                 
                 st.pyplot(fig)
                 
