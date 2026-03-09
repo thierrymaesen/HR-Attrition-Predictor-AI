@@ -11,13 +11,19 @@
 # 👥 TalentKeep AI - Prédiction de l'Attrition (Turnover)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blueh.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5805660a-1343-486e-8844-0d2590ac50aa" alt="Capture d'écran de l'application TalentKeep AI" width="800"/>
+    <br/>
+      <em>Aperçu de l'application TalentKeep AI déployée sur Streamlit</em>
+</p>
 
 ## 🎯 Le Problème
 
@@ -105,6 +111,12 @@ Projet réalisé par **Thierry Maesen**.
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5805660a-1343-486e-8844-0d2590ac50aa" alt="TalentKeep AI Application Screenshot" width="800"/>
+    <br/>
+      <em>Preview of the TalentKeep AI application deployed on Streamlit</em>
+</p>
 
 ## 🎯 The Problem
 
