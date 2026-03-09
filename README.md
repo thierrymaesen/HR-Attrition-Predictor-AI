@@ -175,3 +175,5 @@ If you want to test the application with your own company data, your CSV file mu
 ## 📄 License
 
 Code licensed under **MIT**. The original dataset remains the property of IBM / Kaggle and is used here for demonstration and educational purposes.
+
+Project by **Thierry Maesen**.
