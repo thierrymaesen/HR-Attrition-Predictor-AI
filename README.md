@@ -30,146 +30,146 @@ Le turnover coûte cher aux entreprises. Souvent, les Ressources Humaines décou
 **Plus-value du projet :**
 
 1. **Anticipation :** Analyse des bases de données RH pour identifier les employés à haut risque.
-2. 2. **Explicabilité (Explainable AI) :** Utilisation de la librairie SHAP pour générer un graphique en cascade. Les RH peuvent voir immédiatement les "points de friction" (ex: salaire, trajet) et les "points d'ancrage" propres à chaque individu.
-   3. 3. **Actionnabilité :** Permet aux managers de proposer des solutions ciblées avant la démission.
-     
-      4. ---
-     
-      5. ## 📊 Source des données (Dataset)
-     
-      6. Ce projet utilise le dataset synthétique public **"IBM HR Analytics Employee Attrition & Performance"** créé par les data scientists d'IBM et hébergé sur [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset). Ce jeu de données a été conçu spécifiquement à des fins éducatives pour démontrer la valeur de l'analytique RH.
-     
-      7. ## 🧪 Comment tester l'application ?
-     
-      8. Pour tester l'application en direct sur Streamlit, vous pouvez télécharger et utiliser le fichier de démonstration fourni dans ce dépôt :
-     
-      9. 👉 **[Télécharger le fichier de test : `HR_Analytics_Data.csv`](./HR_Analytics_Data.csv)**
-     
-      10. **Format requis pour vos propres données :**
-     
-      11. Si vous souhaitez tester l'application avec vos propres données d'entreprise, votre fichier CSV doit contenir (au minimum) les colonnes suivantes avec la même casse :
-     
-      12. * `Age` (Numérique)
-          * * `BusinessTravel` (Texte : Non-Travel, Travel_Rarely, Travel_Frequently)
-            * * `Department` (Texte)
-              * * `DistanceFromHome` (Numérique)
-                * * `JobRole` (Texte)
-                  * * `MonthlyIncome` (Numérique)
-                    * * `OverTime` (Texte : Yes, No)
-                     
-                      * *L'application est capable de nettoyer et d'encoder automatiquement les données textuelles grâce au pipeline intégré.*
-                     
-                      * ---
-                     
-                      * ## 🚀 Fonctionnalités
-                     
-                      * - Upload de fichiers de données RH au format CSV.
-                        - - Algorithme **Random Forest Classifier** optimisé.
-                          - - Interface web interactive propulsée par **Streamlit**.
-                            - - Analyse SHAP en temps réel pour le profil le plus critique.
-                             
-                              - ---
+2. **Explicabilité (Explainable AI) :** Utilisation de la librairie SHAP pour générer un graphique en cascade. Les RH peuvent voir immédiatement les "points de friction" (ex: salaire, trajet) et les "points d'ancrage" propres à chaque individu.
+3. **Actionnabilité :** Permet aux managers de proposer des solutions ciblées avant la démission.
 
-                              ## 🛠️ Stack Technique
+---
 
-                              * **Data Science :** Pandas, NumPy, Scikit-Learn
-                              * * **Explainable AI :** SHAP, Matplotlib
-                                * * **Déploiement :** Streamlit Cloud
-                                 
-                                  * ---
-                                 
-                                  * ## 🐛 Défis techniques surmontés
-                                 
-                                  * 1. **Bug d'exécution silencieuse sous Windows 11 :** Contournement du conflit avec l'App Execution Alias de Microsoft via la migration de l'entraînement vers un environnement Jupyter Notebook local (`.ipynb`).
-                                    2. 2. **Incompatibilité SHAP Waterfall Plot et Scikit-Learn :** Refactorisation du code d'explicabilité en utilisant la nouvelle API `shap.plots.waterfall(shap_obj[0, :, 1])` pour gérer la tridimensionnalité des sorties d'un Random Forest multiclasse.
-                                      
-                                       3. ---
-                                      
-                                       4. ## 📄 Licence
-                                      
-                                       5. Code sous licence **MIT**. Le dataset original reste la propriété d'IBM / Kaggle et est utilisé ici dans un cadre démonstratif et éducatif.
-                                      
-                                       6. ---
-                                      
-                                       7. <a name="english"></a>
+## 📊 Source des données (Dataset)
 
-                                       # 👥 TalentKeep AI - Attrition (Turnover) Prediction
+Ce projet utilise le dataset synthétique public **"IBM HR Analytics Employee Attrition & Performance"** créé par les data scientists d'IBM et hébergé sur [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset). Ce jeu de données a été conçu spécifiquement à des fins éducatives pour démontrer la valeur de l'analytique RH.
 
-                                       [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)
-                                       [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-                                       [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-                                       [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-                                       [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-                                       [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
-                                       [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
-                                       [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+## 🧪 Comment tester l'application ?
 
-                                       ## 🎯 The Problem
+Pour tester l'application en direct sur Streamlit, vous pouvez télécharger et utiliser le fichier de démonstration fourni dans ce dépôt :
 
-                                       Employee turnover is costly for companies. Often, Human Resources discover an employee's dissatisfaction only when they hand in their resignation — when it is already too late to act.
+👉 **[Télécharger le fichier de test : `HR_Analytics_Data.csv`](./HR_Analytics_Data.csv)**
 
-                                       ## 💡 The Solution & Value Proposition
+**Format requis pour vos propres données :**
 
-                                       **TalentKeep AI** is a Machine Learning web application designed for HR teams. It doesn't just predict *who* will leave — it explains *why*.
+Si vous souhaitez tester l'application avec vos propres données d'entreprise, votre fichier CSV doit contenir (au minimum) les colonnes suivantes avec la même casse :
 
-                                       **Project value:**
+* `Age` (Numérique)
+* `BusinessTravel` (Texte : Non-Travel, Travel_Rarely, Travel_Frequently)
+* `Department` (Texte)
+* `DistanceFromHome` (Numérique)
+* `JobRole` (Texte)
+* `MonthlyIncome` (Numérique)
+* `OverTime` (Texte : Yes, No)
 
-                                       1. **Anticipation:** Analyzes HR databases to identify high-risk employees.
-                                       2. 2. **Explainability (Explainable AI):** Uses the SHAP library to generate a waterfall chart. HR can immediately see the "friction points" (e.g., salary, commute) and "anchor points" specific to each individual.
-                                          3. 3. **Actionability:** Enables managers to propose targeted retention solutions before the resignation.
-                                            
-                                             4. ---
-                                            
-                                             5. ## 📊 Data Source (Dataset)
-                                            
-                                             6. This project uses the public synthetic dataset **"IBM HR Analytics Employee Attrition & Performance"** created by IBM data scientists and hosted on [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset). This dataset was specifically designed for educational purposes to demonstrate the value of HR analytics.
-                                            
-                                             7. ## 🧪 How to test the application?
-                                            
-                                             8. To test the live application on Streamlit, you can download and use the demo file provided in this repository:
-                                            
-                                             9. 👉 **[Download the test file: `HR_Analytics_Data.csv`](./HR_Analytics_Data.csv)**
-                                            
-                                             10. **Required format for your own data:**
-                                            
-                                             11. If you want to test the application with your own company data, your CSV file must contain (at minimum) the following columns with the same casing:
-                                            
-                                             12. * `Age` (Numeric)
-                                                 * * `BusinessTravel` (Text: Non-Travel, Travel_Rarely, Travel_Frequently)
-                                                   * * `Department` (Text)
-                                                     * * `DistanceFromHome` (Numeric)
-                                                       * * `JobRole` (Text)
-                                                         * * `MonthlyIncome` (Numeric)
-                                                           * * `OverTime` (Text: Yes, No)
-                                                            
-                                                             * *The application can automatically clean and encode text data thanks to its built-in pipeline.*
-                                                            
-                                                             * ---
-                                                            
-                                                             * ## 🚀 Features
-                                                            
-                                                             * - Upload HR data files in CSV format.
-                                                               - - Optimized **Random Forest Classifier** algorithm.
-                                                                 - - Interactive web interface powered by **Streamlit**.
-                                                                   - - Real-time SHAP analysis for the most critical profile.
-                                                                    
-                                                                     - ---
+*L'application est capable de nettoyer et d'encoder automatiquement les données textuelles grâce au pipeline intégré.*
 
-                                                                     ## 🛠️ Tech Stack
+---
 
-                                                                     * **Data Science:** Pandas, NumPy, Scikit-Learn
-                                                                     * * **Explainable AI:** SHAP, Matplotlib
-                                                                       * * **Deployment:** Streamlit Cloud
-                                                                        
-                                                                         * ---
-                                                                        
-                                                                         * ## 🐛 Technical Challenges Overcome
-                                                                        
-                                                                         * 1. **Silent execution bug on Windows 11:** Workaround for the conflict with Microsoft's App Execution Alias by migrating the training to a local Jupyter Notebook environment (`.ipynb`).
-                                                                           2. 2. **SHAP Waterfall Plot and Scikit-Learn incompatibility:** Refactored the explainability code using the new API `shap.plots.waterfall(shap_obj[0, :, 1])` to handle the three-dimensionality of outputs from a multiclass Random Forest.
-                                                                             
-                                                                              3. ---
-                                                                             
-                                                                              4. ## 📄 License
-                                                                             
-                                                                              5. Code licensed under **MIT**. The original dataset remains the property of IBM / Kaggle and is used here for demonstration and educational purposes.
+## 🚀 Fonctionnalités
+
+- Upload de fichiers de données RH au format CSV.
+- Algorithme **Random Forest Classifier** optimisé.
+- Interface web interactive propulsée par **Streamlit**.
+- Analyse SHAP en temps réel pour le profil le plus critique.
+
+---
+
+## 🛠️ Stack Technique
+
+* **Data Science :** Pandas, NumPy, Scikit-Learn
+* **Explainable AI :** SHAP, Matplotlib
+* **Déploiement :** Streamlit Cloud
+
+---
+
+## 🐛 Défis techniques surmontés
+
+1. **Bug d'exécution silencieuse sous Windows 11 :** Contournement du conflit avec l'App Execution Alias de Microsoft via la migration de l'entraînement vers un environnement Jupyter Notebook local (`.ipynb`).
+2. **Incompatibilité SHAP Waterfall Plot et Scikit-Learn :** Refactorisation du code d'explicabilité en utilisant la nouvelle API `shap.plots.waterfall(shap_obj[0, :, 1])` pour gérer la tridimensionnalité des sorties d'un Random Forest multiclasse.
+
+---
+
+## 📄 Licence
+
+Code sous licence **MIT**. Le dataset original reste la propriété d'IBM / Kaggle et est utilisé ici dans un cadre démonstratif et éducatif.
+
+---
+
+<a name="english"></a>
+
+# 👥 TalentKeep AI - Attrition (Turnover) Prediction
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hr-attrition-predictor-ai-thierrymaesen.streamlit.app/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+
+## 🎯 The Problem
+
+Employee turnover is costly for companies. Often, Human Resources discover an employee's dissatisfaction only when they hand in their resignation — when it is already too late to act.
+
+## 💡 The Solution & Value Proposition
+
+**TalentKeep AI** is a Machine Learning web application designed for HR teams. It doesn't just predict *who* will leave — it explains *why*.
+
+**Project value:**
+
+1. **Anticipation:** Analyzes HR databases to identify high-risk employees.
+2. **Explainability (Explainable AI):** Uses the SHAP library to generate a waterfall chart. HR can immediately see the "friction points" (e.g., salary, commute) and "anchor points" specific to each individual.
+3. **Actionability:** Enables managers to propose targeted retention solutions before the resignation.
+
+---
+
+## 📊 Data Source (Dataset)
+
+This project uses the public synthetic dataset **"IBM HR Analytics Employee Attrition & Performance"** created by IBM data scientists and hosted on [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset). This dataset was specifically designed for educational purposes to demonstrate the value of HR analytics.
+
+## 🧪 How to test the application?
+
+To test the live application on Streamlit, you can download and use the demo file provided in this repository:
+
+👉 **[Download the test file: `HR_Analytics_Data.csv`](./HR_Analytics_Data.csv)**
+
+**Required format for your own data:**
+
+If you want to test the application with your own company data, your CSV file must contain (at minimum) the following columns with the same casing:
+
+* `Age` (Numeric)
+* `BusinessTravel` (Text: Non-Travel, Travel_Rarely, Travel_Frequently)
+* `Department` (Text)
+* `DistanceFromHome` (Numeric)
+* `JobRole` (Text)
+* `MonthlyIncome` (Numeric)
+* `OverTime` (Text: Yes, No)
+
+*The application can automatically clean and encode text data thanks to its built-in pipeline.*
+
+---
+
+## 🚀 Features
+
+- Upload HR data files in CSV format.
+- Optimized **Random Forest Classifier** algorithm.
+- Interactive web interface powered by **Streamlit**.
+- Real-time SHAP analysis for the most critical profile.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Data Science:** Pandas, NumPy, Scikit-Learn
+* **Explainable AI:** SHAP, Matplotlib
+* **Deployment:** Streamlit Cloud
+
+---
+
+## 🐛 Technical Challenges Overcome
+
+1. **Silent execution bug on Windows 11:** Workaround for the conflict with Microsoft's App Execution Alias by migrating the training to a local Jupyter Notebook environment (`.ipynb`).
+2. **SHAP Waterfall Plot and Scikit-Learn incompatibility:** Refactored the explainability code using the new API `shap.plots.waterfall(shap_obj[0, :, 1])` to handle the three-dimensionality of outputs from a multiclass Random Forest.
+
+---
+
+## 📄 License
+
+Code licensed under **MIT**. The original dataset remains the property of IBM / Kaggle and is used here for demonstration and educational purposes.
