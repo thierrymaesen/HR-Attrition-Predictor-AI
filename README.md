@@ -89,6 +89,8 @@ Si vous souhaitez tester l'application avec vos propres données d'entreprise, v
 
 Code sous licence **MIT**. Le dataset original reste la propriété d'IBM / Kaggle et est utilisé ici dans un cadre démonstratif et éducatif.
 
+Projet réalisé par **Thierry Maesen**.
+
 ---
 
 <a name="english"></a>
